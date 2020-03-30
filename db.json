@@ -1,10 +1,10 @@
 {
-  "posts": [
+  "Posts": [
     { "Id": 1, "Iitle": "Post 1" },
     { "Id": 2, "Iitle": "Post 2" },
     { "Id": 3, "Iitle": "Post 3" }
   ],
-  "comments": [
+  "Comments": [
     { "Id": 1, "Body": "some comment", "PostId": 1 },
     { "Id": 2, "Body": "some comment", "PostId": 1 }
   ]
