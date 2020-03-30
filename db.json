@@ -1,8 +1,8 @@
 {
   "Posts": [
-    { "Id": 1, "Iitle": "Post 1" },
-    { "Id": 2, "Iitle": "Post 2" },
-    { "Id": 3, "Iitle": "Post 3" }
+    { "Id": 1, "Title": "Post 1" },
+    { "Id": 2, "Title": "Post 2" },
+    { "Id": 3, "Title": "Post 3" }
   ],
   "Comments": [
     { "Id": 1, "Body": "some comment", "PostId": 1 },
