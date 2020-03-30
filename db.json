@@ -7,5 +7,9 @@
   "Comments": [
     { "Id": 1, "Body": "comentario 1", "PostId": 1 },
     { "Id": 2, "Body": "comentario 2", "PostId": 1 }
+  ],
+  "Photos": [
+    { "Id": 1, "Url": "https://i.pinimg.com/originals/47/34/b2/4734b213d7c539362f544b640d0f8112.jpg" },
+    { "Id": 2, "Url": "https://static.imagemwhats.com.br/content/assetz/uploads/2017/03/melhores-wallpapers-de-caes-buldog-para-android-e-whatsapp-185x350.jpg" }
   ]
 }
