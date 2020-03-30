@@ -5,7 +5,7 @@
     { "Id": 3, "Title": "Post 3" }
   ],
   "Comments": [
-    { "Id": 1, "Body": "some comment", "PostId": 1 },
-    { "Id": 2, "Body": "some comment", "PostId": 1 }
+    { "Id": 1, "Body": "comentario 1", "PostId": 1 },
+    { "Id": 2, "Body": "comentario 2", "PostId": 1 }
   ]
 }
