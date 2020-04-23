@@ -13,7 +13,7 @@
          "locality":"Bragança, Mirandela",
          "favorite_count":0,
          "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/45dab602e9aa6cb99c8809cc8f069fce0263827a/store/fit/350/250/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg",
+         "thumb":"https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
          "created_at":"2019-03-27T11:16:42.082Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
@@ -24,8 +24,8 @@
             {
                "width":400,
                "height":400,
-               "url":"http://localhost:3000/attachments/63dad221c31670d6211cd475b41901dba103cecb/store/limit/400/400/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg",
-               "thumb":"http://localhost:3000/attachments/1eed2c7bc618fc34e1649c3c2577a417474a05af/store/blur/400/400/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg"
+               "url":"https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
+               "thumb":"https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg"
             }
          ],
          "from_petcare":true,
@@ -40,7 +40,7 @@
          "locality":"Porto, Porto",
          "favorite_count":0,
          "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/cf827e82d638041fe9522a0869bfab5f88346391/store/fit/350/250/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG",
+         "thumb":"https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
          "created_at":"2017-11-29T00:31:20.209Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
@@ -51,8 +51,8 @@
             {
                "width":400,
                "height":328,
-               "url":"http://localhost:3000/attachments/208f824fe68219a149faea7a9a18b1ff0f57d896/store/limit/400/328/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG",
-               "thumb":"http://localhost:3000/attachments/ccb8a0eae6c1b2b83f099260e516917e5f99787e/store/blur/400/328/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG"
+               "url":"https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
+               "thumb":"https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg"
             }
          ],
          "from_petcare":false,
