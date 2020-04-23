@@ -15,547 +15,58 @@
   ,
   "Anuncios_PetCare":{
    "current_page":1,
-   "page_info":"Todos(as) os(as) 108 Anúncios",
-   "total_pages":1,
+   "page_info":"A mostrar Anúncios 1 - 15 de 108 no total",
+   "total_pages":8,
    "announcements":[
       {
-         "id":"1671d693-5933-49dc-8b12-da03f764052e",
-         "name":"Mia",
-         "description":"A Mia é uma gata meiga, energética que gosta de brincar. Precisa de uma família que aceite essa energia que ela para já vai manifestando…  Esta menina procura uma família especial, para partilhar os próximos 20 anos… para o bem e para o mal (como deveria sempre ser)!  Adopção sujeita à assinatura de um termo de adopção e à comparticipação no valor do microchip colocado (15€) e vacina (20€)  Para adoptar com consciência e por muitos e longos anos:  https://www.associacaomidas.org/adopcoes/proposta-de-adopcao-gatideo/  Dúvidas sobre adopçoes de gatos: bolinhasdepelo@gmail.com",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Porto, Matosinhos",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/c07eb6e72004f94ec7fa92640f47cd5983ddbdfa/store/fit/350/250/e987ad88708280beaf041e9e9f006da24ab68550f12b9945537401d37c8a/1459+-+mia.jpg",
-         "created_at":"2018-07-06T13:46:26.078Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2181262,
-         "map_longitude":-8.657933100000037,
-         "url":"/pt/anuncios/mia-1530884786",
-         "images":[
-            {
-               "width":400,
-               "height":370,
-               "url":"http://localhost:3000/attachments/f2126f1b4311b6c792ce30894fd4bb8263e53887/store/limit/400/370/e987ad88708280beaf041e9e9f006da24ab68550f12b9945537401d37c8a/1459+-+mia.jpg",
-               "thumb":"http://localhost:3000/attachments/25e4bfb60f446d658bbc5a023471215aa7316b16/store/blur/400/370/e987ad88708280beaf041e9e9f006da24ab68550f12b9945537401d37c8a/1459+-+mia.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Associação Midas"
-      },
-      {
-         "id":"b58662c6-5cba-4400-8db1-571805f06a92",
-         "name":"865",
-         "description":"Macho adulto de porte médio dócil",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"6 meses",
-         "thumb":"http://localhost:3000/attachments/a87586812bad8d7acd99ba1fe2776c014ae579af/store/fit/350/250/6c5347cdd03af95dc3ec553d49a460b27a3efcb96370eb35bba9e6b73446/865+2.JPG",
-         "created_at":"2019-10-22T14:01:48.982Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/865-1571752908",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/39026f90f93a2bd7ca9bb76e0dedb65c667c3cab/store/limit/400/225/6c5347cdd03af95dc3ec553d49a460b27a3efcb96370eb35bba9e6b73446/865+2.JPG",
-               "thumb":"http://localhost:3000/attachments/de8a4dd143b2fbdc9bc70bf824f7ecba2fb1482b/store/blur/400/225/6c5347cdd03af95dc3ec553d49a460b27a3efcb96370eb35bba9e6b73446/865+2.JPG"
-            },
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/b352af638cdba42d6ddf0576720e18256b32b6b6/store/limit/400/225/36249af218e91dab343a5e85b5ea63220bf1d1f5cae4f5718d0fa4473588/865+1.JPG",
-               "thumb":"http://localhost:3000/attachments/26d73929482359e950e84d96b95629e019c7b9e1/store/blur/400/225/36249af218e91dab343a5e85b5ea63220bf1d1f5cae4f5718d0fa4473588/865+1.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"94393582-3f68-4967-96f8-185936d76e2f",
-         "name":"JACKIE",
-         "description":"Fêmea adulta, meiga, esterilizada",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"6 meses",
-         "thumb":"http://localhost:3000/attachments/969dec0bfc2aaceabdbcecdd5acbbe62111df4af/store/fit/350/250/df0abad18d2b7f16d8f0a5e4f954c83772342281443e8c4ae067cb6c719e/878+V020376+OVH.JPG",
-         "created_at":"2019-10-18T15:40:14.467Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/jackie-1571413214",
-         "images":[
-            {
-               "width":400,
-               "height":224,
-               "url":"http://localhost:3000/attachments/5374f83ad009b6caf346497c4b58242146165d11/store/limit/400/224/df0abad18d2b7f16d8f0a5e4f954c83772342281443e8c4ae067cb6c719e/878+V020376+OVH.JPG",
-               "thumb":"http://localhost:3000/attachments/54cf2b3d862d0fb98b34491a39831d5e4b04ae96/store/blur/400/224/df0abad18d2b7f16d8f0a5e4f954c83772342281443e8c4ae067cb6c719e/878+V020376+OVH.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"53e2ec5d-83c9-4f0d-b300-c7d7e62912f7",
-         "name":"Macho (Porte Grande) ",
-         "description":"Macho de grande porte. Um potencial candidato para quem gosta de cães grandes. Vacinado. Desparasitado. Castrado. nº710/2017",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":2,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/551851bb4db25e13f0a9bcc872dada91578a7eed/store/fit/350/250/4ffd4472130882cbfa296b37987c8ee45609375780a25abd5f43fd44d117/DSC08411.JPG",
-         "created_at":"2018-01-19T16:10:56.850Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/macho-porte-grande-1524488023",
-         "images":[
-            {
-               "width":400,
-               "height":309,
-               "url":"http://localhost:3000/attachments/2cd232aed3901d311171f43750723c503bac4d47/store/limit/400/309/4ffd4472130882cbfa296b37987c8ee45609375780a25abd5f43fd44d117/DSC08411.JPG",
-               "thumb":"http://localhost:3000/attachments/b5a0ada90e52bf867b5a30b1afec1d70862cd650/store/blur/400/309/4ffd4472130882cbfa296b37987c8ee45609375780a25abd5f43fd44d117/DSC08411.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"f161eb60-e887-42fd-96a9-940f9250522c",
-         "name":"Fêmea (porte médio)",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/738e2ed43c1010c9118b95bf8d396430e314af77/store/fit/350/250/1a15201189bb02fc3213dbbe1cf04b3dd79f58321c39992780373ad26373/12611.jpg",
-         "created_at":"2018-04-19T13:39:16.403Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-porte-medio-1524151816",
-         "images":[
-            {
-               "width":400,
-               "height":724,
-               "url":"http://localhost:3000/attachments/70a0cb11e283746865e474572c5440580d2077b0/store/limit/400/724/68f8d26d0e2629b94804eb1f6f7d0e6533505eb64a84d2bf83a4b105aa81/19.jpg",
-               "thumb":"http://localhost:3000/attachments/37a0d92ecfd2901b6942beaa0fddf46d4c0874f7/store/blur/400/724/68f8d26d0e2629b94804eb1f6f7d0e6533505eb64a84d2bf83a4b105aa81/19.jpg"
-            },
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/9e51160e370cb510c8296a9200758360cdd476c6/store/limit/400/400/1a15201189bb02fc3213dbbe1cf04b3dd79f58321c39992780373ad26373/12611.jpg",
-               "thumb":"http://localhost:3000/attachments/2973ea244211f8b04a053bcb2dfff2250e4641c7/store/blur/400/400/1a15201189bb02fc3213dbbe1cf04b3dd79f58321c39992780373ad26373/12611.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"c17729c0-00d2-464e-97ca-d4c4ffdaa3ee",
-         "name":"Mike",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/f25f856e714a3971543b3f6aa2f69e9d495a450c/store/fit/350/250/9a939c7b8d161302d58f0513547cadf1f8b201fe6b2c557957504c6972a0/IMG_8020.JPG",
-         "created_at":"2020-01-29T13:55:26.733Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/mike-1580306126",
-         "images":[
-            {
-               "width":400,
-               "height":266,
-               "url":"http://localhost:3000/attachments/a68c699c7bf6606e0b195b48090b4ff9b92be4ab/store/limit/400/266/9a939c7b8d161302d58f0513547cadf1f8b201fe6b2c557957504c6972a0/IMG_8020.JPG",
-               "thumb":"http://localhost:3000/attachments/8e969128dea5c2665e3592b497885ee0cf0fb1d8/store/blur/400/266/9a939c7b8d161302d58f0513547cadf1f8b201fe6b2c557957504c6972a0/IMG_8020.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"cc4e8dae-56b3-4e67-b049-0892fda8f41b",
-         "name":"Cadela para adopção ",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Lisboa, Loures",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/5910b47588a08bf4af4913fc7c6d9019a9085e26/store/fit/350/250/ebb799a03ef76ee5a10a59eccd7365a420f959bec4542687be2a58f0f880/C261E14F-E075-4C2D-B020-ADC382876048.jpeg",
-         "created_at":"2018-12-10T15:34:37.024Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":38.7798301,
-         "map_longitude":-9.102732699999933,
-         "url":"/pt/anuncios/cadela-para-adopcao-1544456077",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/7c49fe9a9f630fd8b9b2b3dd8642fece1970c1ea/store/limit/400/533/4339d75b3029e7d005eaa93f93d9343753db0dc2b6830e0e4e0260e78b3b/E1844A59-8B6C-4BEE-B500-10BB9EC4D24B.jpeg",
-               "thumb":"http://localhost:3000/attachments/ba7ae509396cb4dbd02c43f26b950cdcc380cc3e/store/blur/400/533/4339d75b3029e7d005eaa93f93d9343753db0dc2b6830e0e4e0260e78b3b/E1844A59-8B6C-4BEE-B500-10BB9EC4D24B.jpeg"
-            },
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/66af9dbd1236b3d4e714f0c94e5061fd646a1195/store/limit/400/533/50805680ff7a3950376ca9c831e543216d4641ef8888b99cd5c599f42eff/88952DD9-88FA-4FA1-9ED6-BA17FFC75323.jpeg",
-               "thumb":"http://localhost:3000/attachments/cd2ce99e3d8d87f3d29c279606530ef2606b3bd9/store/blur/400/533/50805680ff7a3950376ca9c831e543216d4641ef8888b99cd5c599f42eff/88952DD9-88FA-4FA1-9ED6-BA17FFC75323.jpeg"
-            },
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/4b612459f54c3932ad6b9227fde9acf596b79b15/store/limit/400/533/ebb799a03ef76ee5a10a59eccd7365a420f959bec4542687be2a58f0f880/C261E14F-E075-4C2D-B020-ADC382876048.jpeg",
-               "thumb":"http://localhost:3000/attachments/371b558d8846be799f5bd4d4e3c213bcd076d853/store/blur/400/533/ebb799a03ef76ee5a10a59eccd7365a420f959bec4542687be2a58f0f880/C261E14F-E075-4C2D-B020-ADC382876048.jpeg"
-            },
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/1135c0f1ff2d6b5eb60563f8f63e59aa34012517/store/limit/400/533/3ab0a978a2690746c57052101750658dcb8ccbfdab66f49d1aecc54a3faf/B8FDA128-FBC7-4DCC-82A5-D6B0580BC9B5.jpeg",
-               "thumb":"http://localhost:3000/attachments/bc36532885e2b7a34d54d7466e03007afedefac2/store/blur/400/533/3ab0a978a2690746c57052101750658dcb8ccbfdab66f49d1aecc54a3faf/B8FDA128-FBC7-4DCC-82A5-D6B0580BC9B5.jpeg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"87035b7b-b30c-4e73-89ec-0666f8b92df9",
-         "name":"1045",
-         "description":"Macho jovem dócil e sociável",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"6 meses",
-         "thumb":"http://localhost:3000/attachments/7646e7ef915270eeaa0f8af29e500fb0e1ff7cdb/store/fit/350/250/cf78b0e05bd9e37584314c3d8734005cb6ef18c269b3909bcca519e6edfc/1045.JPG",
-         "created_at":"2019-10-18T11:49:02.628Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/1045-1571399342",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/0c1074877afd88b473530217e6fb64da2cfb1aa2/store/limit/400/225/cf78b0e05bd9e37584314c3d8734005cb6ef18c269b3909bcca519e6edfc/1045.JPG",
-               "thumb":"http://localhost:3000/attachments/bc3caca8acfa22cdca231a1f0f8ac2849c2647e5/store/blur/400/225/cf78b0e05bd9e37584314c3d8734005cb6ef18c269b3909bcca519e6edfc/1045.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"76c12079-2a0e-4528-be7c-fcd9f08d1d69",
-         "name":"126",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"9 meses",
-         "thumb":"http://localhost:3000/attachments/3841aafc249855abeefdbd32adfcb860ba2699bf/store/fit/350/250/e488662de57fe47a4b31b2e0ef243d19a97ec6da92ee75fe0b86d50c0919/3.jpg",
-         "created_at":"2019-07-16T21:02:07.071Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/126-1563310927",
-         "images":[
-            {
-               "width":400,
-               "height":570,
-               "url":"http://localhost:3000/attachments/b604ac01ff9d70b5b061b4d604c781bf35946480/store/limit/400/570/e488662de57fe47a4b31b2e0ef243d19a97ec6da92ee75fe0b86d50c0919/3.jpg",
-               "thumb":"http://localhost:3000/attachments/fdfcd620ec909c9f90e6058a6e11edf80200cf62/store/blur/400/570/e488662de57fe47a4b31b2e0ef243d19a97ec6da92ee75fe0b86d50c0919/3.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"c5d928af-3c02-41fc-a694-a4693488f459",
-         "name":"SPIKE",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/ad0c0b4dabd92476edfff0ca0535256a39be88db/store/fit/350/250/5145aaeca5f3812f75189b5958e512feb85290979ba2fc122ec78ab129b4/3.jpg",
-         "created_at":"2020-01-30T10:53:30.720Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/spike-1580381610",
-         "images":[
-            {
-               "width":400,
-               "height":316,
-               "url":"http://localhost:3000/attachments/a24c842caf79590bc4060aed2153e371399e54ca/store/limit/400/316/5145aaeca5f3812f75189b5958e512feb85290979ba2fc122ec78ab129b4/3.jpg",
-               "thumb":"http://localhost:3000/attachments/1f9459215615ebb80baa8f84ad0c2b9d030aa9b0/store/blur/400/316/5145aaeca5f3812f75189b5958e512feb85290979ba2fc122ec78ab129b4/3.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"5b754a94-353b-45fd-b9d4-12a0d80c59dc",
-         "name":"189",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"9 meses",
-         "thumb":"http://localhost:3000/attachments/a78f6f435a97c91ee9f2c62bcdea7a01efe5a515/store/fit/350/250/3d4ade88fc1d3eba67949e9aa4f1efb2ba1d5e5ceb5fbd796fd871df0388/189.JPG",
-         "created_at":"2019-07-16T20:24:51.885Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/189-1563308691",
-         "images":[
-            {
-               "width":400,
-               "height":534,
-               "url":"http://localhost:3000/attachments/4314ae9c4f50d417074f1c6a7962740bd3714fc8/store/limit/400/534/3d4ade88fc1d3eba67949e9aa4f1efb2ba1d5e5ceb5fbd796fd871df0388/189.JPG",
-               "thumb":"http://localhost:3000/attachments/ae5c9b56640dd59d6b6c2ec270700d15be806850/store/blur/400/534/3d4ade88fc1d3eba67949e9aa4f1efb2ba1d5e5ceb5fbd796fd871df0388/189.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"a3cd3094-b20f-44fa-a7a9-6697d3114a91",
-         "name":"Macho | S.R.D. porte médio",
-         "description":"Muito brincalhão... ",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/fe66a30a18d99187c32c8ab67e3609ebec832f17/store/fit/350/250/ffa630b2d67b5ac3343e947ae44936c951ebbaca2cc71bcba8df558ac9d2/53082569_2323032821062640_781645504835485696_o.jpg",
-         "created_at":"2019-03-15T11:31:39.927Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-s-r-d-porte-medio-1552649499",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/c24d9c425f8a6de398383a7ec95373c19ca668d1/store/limit/400/400/ffa630b2d67b5ac3343e947ae44936c951ebbaca2cc71bcba8df558ac9d2/53082569_2323032821062640_781645504835485696_o.jpg",
-               "thumb":"http://localhost:3000/attachments/de9f3464f00d25b02564a355d38a565223d06e8d/store/blur/400/400/ffa630b2d67b5ac3343e947ae44936c951ebbaca2cc71bcba8df558ac9d2/53082569_2323032821062640_781645504835485696_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"0732e20e-3459-4f84-ade3-01afd691b965",
-         "name":"Filou",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/9202338f4d553fce8c66f2af6c601629138125b1/store/fit/350/250/b0f06807dfbf360df8d094b755becef8e140a4af7bae09b98203103dd62a/Filou+2.jpg",
-         "created_at":"2018-11-21T12:07:04.538Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5962722,
-         "map_longitude":-8.641906699999936,
-         "url":"/pt/anuncios/filou-1542802024",
-         "images":[
-            {
-               "width":400,
-               "height":267,
-               "url":"http://localhost:3000/attachments/aca2075aa6f055f69b1fc3ac65324e55dc2687a8/store/limit/400/267/b0f06807dfbf360df8d094b755becef8e140a4af7bae09b98203103dd62a/Filou+2.jpg",
-               "thumb":"http://localhost:3000/attachments/5df7275da1e61c9c614de5202f5fba36e78c431f/store/blur/400/267/b0f06807dfbf360df8d094b755becef8e140a4af7bae09b98203103dd62a/Filou+2.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"f0dd6a20-c1e3-4d2d-b7e3-e1f804ed4e20",
+         "id":"22e4b1e9-e6a3-4095-ad48-6145e9f25084",
          "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Sociável e muito meiguinha. =)",
-         "age":"Adulto",
+         "description":"Muito fofinha e brincalhona!",
+         "age":"Junior",
          "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"11 meses",
-         "thumb":"http://localhost:3000/attachments/6742a8dee6e30a431a2cccc56be1811a6ecffc3f/store/fit/350/250/79470997216add8d5c1c7858376276ca8de196c5e3b040f6f6189ee24ed7/54798707_2344193212279934_4714072566975692800_o.jpg",
-         "created_at":"2019-06-05T15:05:59.348Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1559747159",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/453cf2ae0cbe6524076ca33918f2d7d3a708c414/store/limit/400/400/79470997216add8d5c1c7858376276ca8de196c5e3b040f6f6189ee24ed7/54798707_2344193212279934_4714072566975692800_o.jpg",
-               "thumb":"http://localhost:3000/attachments/484fdaaf6acc29784bd1ed6aecbf1e8127602804/store/blur/400/400/79470997216add8d5c1c7858376276ca8de196c5e3b040f6f6189ee24ed7/54798707_2344193212279934_4714072566975692800_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"81a9afd7-6fe7-4603-a12d-99f51b1fe269",
-         "name":"Macho (pelagem curto)",
-         "description":"",
-         "age":"Bebé",
-         "gender":"Macho",
-         "locality":"Aveiro, Águeda",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/f96f19a715e8f95863ea03ae2db8c8c3f8b92fc0/store/fit/350/250/98e74aedf59a1527b6c104bb58fbd9d580e196bc72f8830b99958b97754c/_DSC1711.png",
-         "created_at":"2018-06-18T19:25:55.808Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.5754246,
-         "map_longitude":-8.446436800000015,
-         "url":"/pt/anuncios/macho-pelagem-curto-1529349955",
-         "images":[
-            {
-               "width":400,
-               "height":302,
-               "url":"http://localhost:3000/attachments/d993074fbc5bb22895d1e90de52d03cf9759894b/store/limit/400/302/98e74aedf59a1527b6c104bb58fbd9d580e196bc72f8830b99958b97754c/_DSC1711.png",
-               "thumb":"http://localhost:3000/attachments/23b66f146b14d324aac034041c832451a65ff388/store/blur/400/302/98e74aedf59a1527b6c104bb58fbd9d580e196bc72f8830b99958b97754c/_DSC1711.png"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"1f2bfa5f-6cf2-479b-9c1a-9147b544ec07",
-         "name":"Macho | S.R.D. porte médio",
-         "description":"Muito meigo e brincalhão!",
-         "age":"Adulto",
-         "gender":"Macho",
          "locality":"Bragança, Mirandela",
          "favorite_count":0,
          "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/cea23e98490ca50e56a0c266c3c93d4d2b35c456/store/fit/350/250/a8eea8781a454e4c2f1f043c70a7e081986edf14d2c9dd57e1a4ddb0a0bc/53377831_2322814744417781_2459387274001907712_o.jpg",
-         "created_at":"2019-03-15T12:23:51.784Z",
+         "thumb":"http://localhost:3000/attachments/45dab602e9aa6cb99c8809cc8f069fce0263827a/store/fit/350/250/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg",
+         "created_at":"2019-03-27T11:16:42.082Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
          "map_latitude":41.374074,
          "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-s-r-d-porte-medio-1552652631",
+         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1553685402",
          "images":[
             {
                "width":400,
                "height":400,
-               "url":"http://localhost:3000/attachments/4bd063403d06975cbd5d3d61f5c91030f69e2d77/store/limit/400/400/a8eea8781a454e4c2f1f043c70a7e081986edf14d2c9dd57e1a4ddb0a0bc/53377831_2322814744417781_2459387274001907712_o.jpg",
-               "thumb":"http://localhost:3000/attachments/1b3f55879bb7de1f81d298c818ca97437ef21ad2/store/blur/400/400/a8eea8781a454e4c2f1f043c70a7e081986edf14d2c9dd57e1a4ddb0a0bc/53377831_2322814744417781_2459387274001907712_o.jpg"
+               "url":"http://localhost:3000/attachments/63dad221c31670d6211cd475b41901dba103cecb/store/limit/400/400/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg",
+               "thumb":"http://localhost:3000/attachments/1eed2c7bc618fc34e1649c3c2577a417474a05af/store/blur/400/400/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg"
             }
          ],
          "from_petcare":true,
          "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
       },
       {
-         "id":"620a8f6e-1852-41e7-bad3-fd3029797061",
-         "name":"Macho (Porte Grande) ",
-         "description":"Com idade que já impõe respeito, este patudo merece o aconchego de um lar. nº709/2017",
-         "age":"Sénior",
-         "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/768bcc30c56994c5b5a115c827868a29576d15ea/store/fit/350/250/bd4691d13dd0c9147fe6baddcafdbcca093781b4a1786f71a5efee798b82/DSC08417.JPG",
-         "created_at":"2018-01-19T16:16:51.956Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/macho-porte-grande-1524488110",
-         "images":[
-            {
-               "width":400,
-               "height":334,
-               "url":"http://localhost:3000/attachments/2551550be729deab7324e48f76851a938e4da89d/store/limit/400/334/bd4691d13dd0c9147fe6baddcafdbcca093781b4a1786f71a5efee798b82/DSC08417.JPG",
-               "thumb":"http://localhost:3000/attachments/11ec41646ec1f3170e8de0e8b8044f00479ac4df/store/blur/400/334/bd4691d13dd0c9147fe6baddcafdbcca093781b4a1786f71a5efee798b82/DSC08417.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"b3ff5c59-7a4d-43ad-812c-861bbd16fc47",
-         "name":"Animal nº 104/2018 para adoção responsável",
-         "description":"Que simpático este patudo! https://www.amtsm.pt/pt/canil-intermunicipal/adoptar/1042018",
+         "id":"5dcdc07f-1832-411e-b0da-4c66f1622263",
+         "name":"ADOÇÃO RESPONSÁVEL ",
+         "description":"Os donos deste cão estão desesperados para encontrar  um novo dono para ele,vivem num apartamento e estão a ter problemas com os vizinhos.\r\nÉ um cão que precisa de espaço exterior porque é muito energético, é dosil e saudável. \r\nOs donos encarregam se de acompanhá lo de perto e oferecem ração. \r\nEle chama se \"F\" tem 3anos e a raça é pitbull com pastor alemão. Número para o qual podem contatar é 912779729 ( Soraia Pinto) mensagem. ",
          "age":"Adulto",
          "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
+         "locality":"Porto, Porto",
          "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/32668125b2ac55152da3025c3f64bc049ee965d9/store/fit/350/250/628917839048ea2308ea0df08d04576a4fcb1ad45301d7b5ce2428d081b6/IMG_6667.JPG",
-         "created_at":"2018-10-02T15:10:28.079Z",
+         "short_date":"mais de 2 anos",
+         "thumb":"http://localhost:3000/attachments/cf827e82d638041fe9522a0869bfab5f88346391/store/fit/350/250/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG",
+         "created_at":"2017-11-29T00:31:20.209Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/animal-n-104-2018-para-adocao-responsavel-1538493028",
+         "map_latitude":41.14377160000001,
+         "map_longitude":-8.607642499999997,
+         "url":"/pt/anuncios/adocao-responsavel-1511915480",
          "images":[
             {
                "width":400,
-               "height":388,
-               "url":"http://localhost:3000/attachments/73cbbab354e1e43bf755e301db0f04191ac660c0/store/limit/400/388/628917839048ea2308ea0df08d04576a4fcb1ad45301d7b5ce2428d081b6/IMG_6667.JPG",
-               "thumb":"http://localhost:3000/attachments/6ba203554dcba715063759a3535b5f99f2911b17/store/blur/400/388/628917839048ea2308ea0df08d04576a4fcb1ad45301d7b5ce2428d081b6/IMG_6667.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"1013fe0b-fc5b-443e-b753-d1a4af9ae683",
-         "name":"Procuro um novo lar",
-         "description":"",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Águeda",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/92d3da674e8141fb2f50d116997c752b4ea47da4/store/fit/350/250/d9739b91ad4a6203a53992c4a56f79cee82bbab476f6f1aa934d493e18cb/_DSC1706_FB.png",
-         "created_at":"2018-06-18T19:15:46.067Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.5754246,
-         "map_longitude":-8.446436800000015,
-         "url":"/pt/anuncios/procuro-um-novo-lar-1529349346",
-         "images":[
-            {
-               "width":400,
-               "height":251,
-               "url":"http://localhost:3000/attachments/5b01196f05938d0c769ccc5d75cf1eaa57048b76/store/limit/400/251/d9739b91ad4a6203a53992c4a56f79cee82bbab476f6f1aa934d493e18cb/_DSC1706_FB.png",
-               "thumb":"http://localhost:3000/attachments/1c5bf42cf247fb7f84b4ac84189921d536100fd5/store/blur/400/251/d9739b91ad4a6203a53992c4a56f79cee82bbab476f6f1aa934d493e18cb/_DSC1706_FB.png"
+               "height":328,
+               "url":"http://localhost:3000/attachments/208f824fe68219a149faea7a9a18b1ff0f57d896/store/limit/400/328/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG",
+               "thumb":"http://localhost:3000/attachments/ccb8a0eae6c1b2b83f099260e516917e5f99787e/store/blur/400/328/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG"
             }
          ],
          "from_petcare":false,
@@ -589,202 +100,6 @@
          "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
       },
       {
-         "id":"c49fcf61-d87d-4377-85aa-595af892dcc8",
-         "name":"Salto",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"12 meses",
-         "thumb":"http://localhost:3000/attachments/725fdd6f861ce3297b818e391fb99f59ada250a5/store/fit/350/250/83b661b1c6b2038733fcd573b241a1744b9dc2a786a14f3e5a07626afadd/Salto.jpg",
-         "created_at":"2019-04-24T15:27:53.879Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5965196,
-         "map_longitude":-8.64185729999997,
-         "url":"/pt/anuncios/salto-1556119673",
-         "images":[
-            {
-               "width":400,
-               "height":565,
-               "url":"http://localhost:3000/attachments/4b74d030fd5509bc8681c062fff780bb7efa0b76/store/limit/400/565/83b661b1c6b2038733fcd573b241a1744b9dc2a786a14f3e5a07626afadd/Salto.jpg",
-               "thumb":"http://localhost:3000/attachments/8a4b76859049bf7fd28b69e221edaa26a63dd2f1/store/blur/400/565/83b661b1c6b2038733fcd573b241a1744b9dc2a786a14f3e5a07626afadd/Salto.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"4b89569d-e247-4132-ba41-d93131d97658",
-         "name":"1007",
-         "description":"Fêmea dócil e brincalhona ",
-         "age":"Junior",
-         "gender":"Fêmea",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"8 meses",
-         "thumb":"http://localhost:3000/attachments/fb4d37b0a2323a641e8dab96fccd0b46b89471eb/store/fit/350/250/c11860deb9172695c8bb85b77d0d6e69cd639db6a8a1f83e4abf4c724ba1/1007.JPG",
-         "created_at":"2019-09-10T11:55:02.277Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/1007-1568116502",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/8136f0cf2cd9b97f67b392c6ee03d478bbdabdeb/store/limit/400/225/c11860deb9172695c8bb85b77d0d6e69cd639db6a8a1f83e4abf4c724ba1/1007.JPG",
-               "thumb":"http://localhost:3000/attachments/1ae0b9ee94a8db5c66fc02579b6942e05e47b58a/store/blur/400/225/c11860deb9172695c8bb85b77d0d6e69cd639db6a8a1f83e4abf4c724ba1/1007.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"2e8d706e-7424-4659-a7a3-dd0c482468c5",
-         "name":"Francisco",
-         "description":"Este menino veio para a Midas em muito mau estado, não se deixava tocar, comia mal... estava sempre em stress.Com tempo, muita dedicação, e mudança de alguns hábitos, ele começou a engordar (a comer, na realidade) e a ganhar mais confiança nos humanos. Já se deixa tocar, já vai passear a rua, e ainda precisa de muita paciencia e persistência mas nós não somos de desistir. Precisa de uma família que tenha paciencia e muito amor para lhe dar. uma família em quem ele confie (e isso nem sempre é de imediato).Alguem que se ache capaz de ser a família do Francisco?     CANDIDATURA A ADOPÇAO: http://www.associacaomidas.org/proposta-de-adopcao-canideo/",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Porto, Matosinhos",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/cb8cc902f07585f1bf09cfd03841e7f4335c7878/store/fit/350/250/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
-         "created_at":"2018-07-06T11:56:36.120Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2181262,
-         "map_longitude":-8.657933100000037,
-         "url":"/pt/anuncios/francisco-1530878196",
-         "images":[
-            {
-               "width":400,
-               "height":397,
-               "url":"http://localhost:3000/attachments/600c6b9f68c42582734f5422161cad62d83a1495/store/limit/400/397/e94d1433c2a52fcd141df3dd11c9603d809c7ef8c944d67becdfea39108d/960+-+francisco.jpg",
-               "thumb":"http://localhost:3000/attachments/a88c04546fdd9693073239421560185951c6078f/store/blur/400/397/e94d1433c2a52fcd141df3dd11c9603d809c7ef8c944d67becdfea39108d/960+-+francisco.jpg"
-            },
-            {
-               "width":400,
-               "height":434,
-               "url":"http://localhost:3000/attachments/5c746f6f99a05300e980d199e326cfc7ab4d8278/store/limit/400/434/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
-               "thumb":"http://localhost:3000/attachments/1ce008158b33c38d9a6b1cc1801580c670fd8f12/store/blur/400/434/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Associação Midas"
-      },
-      {
-         "id":"cda48745-9bda-4f24-9349-fdf427347e4d",
-         "name":"Macho (porte médio)",
-         "description":"Muito bonito e meigo!",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/1e489eddcb105a28ec7e5cfa4091f73f3688aa20/store/fit/350/250/c3c2bb4f06a84332169062532e7b9fe12558aab4d44aea60b370949ad6e2/12940.jpg",
-         "created_at":"2018-11-05T15:33:53.635Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-porte-medio-1541432033",
-         "images":[
-            {
-               "width":400,
-               "height":751,
-               "url":"http://localhost:3000/attachments/2f0b15f061abf047ef0277826cf8b5be71b466a9/store/limit/400/751/bf58a39d47555cfd4875e56043b104d3348a73571eb5a30c1c153e72a946/40377682_2054900247875900_4194352885317763072_o.jpg",
-               "thumb":"http://localhost:3000/attachments/6cbc5771e4c0a67c9aa30975d72d875d2a3d21d3/store/blur/400/751/bf58a39d47555cfd4875e56043b104d3348a73571eb5a30c1c153e72a946/40377682_2054900247875900_4194352885317763072_o.jpg"
-            },
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/7b7b468f083a149c27bf5d81c11d623c44c6efff/store/limit/400/400/c3c2bb4f06a84332169062532e7b9fe12558aab4d44aea60b370949ad6e2/12940.jpg",
-               "thumb":"http://localhost:3000/attachments/074ad91b2df15caba6b305fe45143acedbb3b3bd/store/blur/400/400/c3c2bb4f06a84332169062532e7b9fe12558aab4d44aea60b370949ad6e2/12940.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"53d07a34-9a0a-4fce-a5d8-ec8caa532015",
-         "name":"Adoção: Xica",
-         "description":"CAMPANHA: Adote uma nova Vida! Atualmente, estão ao abrigo da Junta da Freguesia de Ermesinde, dois cães (um macho e uma fêmea) com idade aproximada de 1 ano, devido à indisponibilidade de espaço no Centro Veterinário Municipal de Valongo. Caso esteja interessado, contacte-nos! Nota: Todos os animais adoptados no âmbito desta campanha encontram-se isentos do pagamento de taxas anuais de licença de canídeos na Freguesia de Ermesinde, bem como a gratuitidade na colocação de Microchip e castração no caso das fêmeas.",
-         "age":"Junior",
-         "gender":"Fêmea",
-         "locality":"Porto, Valongo",
-         "favorite_count":1,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/ff092ad0a8c5e6cdd55987cd65998695c244ff37/store/fit/350/250/94cdd5a09533876d62dd673013fe66e8eae5b210f70bb809ab11a7964e85/IMG_4295_.jpg",
-         "created_at":"2018-03-28T11:52:08.464Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2090826,
-         "map_longitude":-8.544635999999969,
-         "url":"/pt/anuncios/adocao-xica-1522237928",
-         "images":[
-            {
-               "width":400,
-               "height":600,
-               "url":"http://localhost:3000/attachments/5ec53c4b827abd9a19ad61c62ad250c70e4975de/store/limit/400/600/94cdd5a09533876d62dd673013fe66e8eae5b210f70bb809ab11a7964e85/IMG_4295_.jpg",
-               "thumb":"http://localhost:3000/attachments/24e5009864280cdd904813250c29b9b8021abdc4/store/blur/400/600/94cdd5a09533876d62dd673013fe66e8eae5b210f70bb809ab11a7964e85/IMG_4295_.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"128525a9-bb39-48cc-b0a9-4b33f69df8ae",
-         "name":"Preciso de um dono",
-         "description":"Olá não tenho nome pois sou bebe e preciso de um dono que me dê um. A minha mae é pastora alemã mas não é pura. O meu pai é suposto ser um labrador. ",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Lisboa, Sintra",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":null,
-         "created_at":"2017-12-16T17:33:37.821Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2169929,
-         "map_longitude":-8.603244600000039,
-         "url":"/pt/anuncios/preciso-de-um-dono-1513445617",
-         "images":[
-
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"980cef45-70e3-4aee-ae25-328d9817a578",
-         "name":"Kiara",
-         "description":"",
-         "age":"Sénior",
-         "gender":"Fêmea",
-         "locality":"Porto, Matosinhos",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/521f2ff917b4669649a29647b073583320968dd2/store/fit/350/250/124cf466f81340e075c85246543018cbe8377d56d2b6423d2e92d8740dbd/Kiara2.jpg",
-         "created_at":"2018-07-25T16:19:00.683Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2181262,
-         "map_longitude":-8.657933100000037,
-         "url":"/pt/anuncios/kiara-1532535540",
-         "images":[
-            {
-               "width":400,
-               "height":294,
-               "url":"http://localhost:3000/attachments/c15f858e83274e11b2643992065b350e49ea62ce/store/limit/400/294/124cf466f81340e075c85246543018cbe8377d56d2b6423d2e92d8740dbd/Kiara2.jpg",
-               "thumb":"http://localhost:3000/attachments/78c1adcc8a09476828cc1863b64b1d6ad900b9b2/store/blur/400/294/124cf466f81340e075c85246543018cbe8377d56d2b6423d2e92d8740dbd/Kiara2.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Associação Midas"
-      },
-      {
          "id":"0c980bfa-4551-4911-97ef-89804ada40d8",
          "name":"Sun Animal n° 112/2017 para adoção responsável ",
          "description":"Fêmea, porte médio, muito meiga. Vacinada e esterilizada!",
@@ -810,776 +125,6 @@
          ],
          "from_petcare":true,
          "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"49b50726-0561-4fd5-8455-f153cb2620b2",
-         "name":"871 (2)",
-         "description":"Macho adulto, dócil e de porte pequeno",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"7 meses",
-         "thumb":"http://localhost:3000/attachments/abe035c39052ff89ff65116bd784e4539cbbc101/store/fit/350/250/25597a582d8844690e01891a597e6cc126d6072e7456411fdd7065149b2d/871+2+V027458+2.JPG",
-         "created_at":"2019-09-19T13:36:03.972Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/871-2-1568900163",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/c1d54c33e105310c95a96f25ee83d7d74a1b0e62/store/limit/400/225/d9b5ad0c425148edce559a9580ed7cd8cf2fa7af89dd5ffacb07b1451a23/871+2+V027458.JPG",
-               "thumb":"http://localhost:3000/attachments/082be07bc582fa9a939c868ab7b832e291ae3714/store/blur/400/225/d9b5ad0c425148edce559a9580ed7cd8cf2fa7af89dd5ffacb07b1451a23/871+2+V027458.JPG"
-            },
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/2ac90fb8c99f0084027677d7d2d2e54a44046062/store/limit/400/225/25597a582d8844690e01891a597e6cc126d6072e7456411fdd7065149b2d/871+2+V027458+2.JPG",
-               "thumb":"http://localhost:3000/attachments/9beaa5c07df752bd6a30a59eb78a38c580aa4485/store/blur/400/225/25597a582d8844690e01891a597e6cc126d6072e7456411fdd7065149b2d/871+2+V027458+2.JPG"
-            },
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/2d6d6c88335ffd268f908b985a53c61fb94c8b8b/store/limit/400/225/710dc612d8d359de6a3472b969510bb20a7354dae492827f962ee897e7e6/871+2+V027458+3.JPG",
-               "thumb":"http://localhost:3000/attachments/e86e0313eb7cf14216f5c2ed55779bea9e2563b5/store/blur/400/225/710dc612d8d359de6a3472b969510bb20a7354dae492827f962ee897e7e6/871+2+V027458+3.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"95128145-aad0-41fd-9294-614e360ed2aa",
-         "name":"Tifon",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"10 meses",
-         "thumb":"http://localhost:3000/attachments/7f7fa8f25a008f91ebe2e224002a4cfe6e26ee3d/store/fit/350/250/4e82ed4a38e74fd7243c7e034fbcb8327fc7c6bf037b83d3ca67138981c0/tifon+3.jpg",
-         "created_at":"2019-06-19T09:39:43.205Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5965196,
-         "map_longitude":-8.64185729999997,
-         "url":"/pt/anuncios/tifon-1560937183",
-         "images":[
-            {
-               "width":400,
-               "height":323,
-               "url":"http://localhost:3000/attachments/008cdd2395de349e1dc97dda6542fc3348294543/store/limit/400/323/4e82ed4a38e74fd7243c7e034fbcb8327fc7c6bf037b83d3ca67138981c0/tifon+3.jpg",
-               "thumb":"http://localhost:3000/attachments/8da6062d39da9f12f1121e18c8d73e09c2a626cc/store/blur/400/323/4e82ed4a38e74fd7243c7e034fbcb8327fc7c6bf037b83d3ca67138981c0/tifon+3.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"e78601b1-5b0e-468a-9b8c-c5a6a27b43ff",
-         "name":"Macho (porte médio)",
-         "description":"Muito meigo e dócil. ",
-         "age":"Junior",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/fbe20dc54051a5a63bc0b2fa1327a35385e44440/store/fit/350/250/70dd3e8d3e624be7bf70b6b22edbd56f4f330827e6de008f4a61633303ac/45309849_2142405489125375_523738989362937856_o.jpg",
-         "created_at":"2018-11-05T15:16:36.339Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-porte-medio-1541430996",
-         "images":[
-            {
-               "width":400,
-               "height":336,
-               "url":"http://localhost:3000/attachments/347a03785606f64107ff9b6d1766a6adeaff0e35/store/limit/400/336/70dd3e8d3e624be7bf70b6b22edbd56f4f330827e6de008f4a61633303ac/45309849_2142405489125375_523738989362937856_o.jpg",
-               "thumb":"http://localhost:3000/attachments/5a945ee392315afe3103ff35902188cc47570ab3/store/blur/400/336/70dd3e8d3e624be7bf70b6b22edbd56f4f330827e6de008f4a61633303ac/45309849_2142405489125375_523738989362937856_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"9b364477-019f-4468-993d-909abf68c07c",
-         "name":"Margarida",
-         "description":"Assustada ao primeiro contacto",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Porto, Matosinhos",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/491249dbaba807f005ace142ab23a3966f0af537/store/fit/350/250/1b4680c07a8c2fdc1fa8e721619308be6aa9a208644d4a84fd875de8a15d/margarida.jpg",
-         "created_at":"2019-02-11T17:08:03.424Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2181262,
-         "map_longitude":-8.657933100000037,
-         "url":"/pt/anuncios/margarida-1549904883",
-         "images":[
-            {
-               "width":400,
-               "height":599,
-               "url":"http://localhost:3000/attachments/83feacf4558f287d802e66e0f94c3a15d1b383f7/store/limit/400/599/1b4680c07a8c2fdc1fa8e721619308be6aa9a208644d4a84fd875de8a15d/margarida.jpg",
-               "thumb":"http://localhost:3000/attachments/fa211f608e89e2faa245beb21928a1e5d8de0ea5/store/blur/400/599/1b4680c07a8c2fdc1fa8e721619308be6aa9a208644d4a84fd875de8a15d/margarida.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Associação Midas"
-      },
-      {
-         "id":"6201a87a-91f2-4db4-b7a9-0e03c7fc36c3",
-         "name":"Bolinhas",
-         "description":"",
-         "age":"Junior",
-         "gender":"Macho",
-         "locality":"Porto, Matosinhos",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":null,
-         "created_at":"2017-10-14T17:56:08.042Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.216189,
-         "map_longitude":-8.618991499999993,
-         "url":"/pt/anuncios/bolinhas-1508003768",
-         "images":[
-
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"41e66300-be54-496b-8f9e-b30fa3bce973",
-         "name":"Fêmea (porte médio)",
-         "description":"Muito meiga a tímida!",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/c0ea3773b7f59fb51705a7d9243c61dcfdeefe12/store/fit/350/250/a6d5f6fd91723f3df679686f0a52f716b8ef949c70627def3e0ef8ee46d0/42117252_2077216415644283_1550113057869398016_o.jpg",
-         "created_at":"2018-11-05T15:22:16.185Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-porte-medio-1541431336",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/e89e0d16e92ddbc40268c5106b6caf83ab7cf4f6/store/limit/400/533/a6d5f6fd91723f3df679686f0a52f716b8ef949c70627def3e0ef8ee46d0/42117252_2077216415644283_1550113057869398016_o.jpg",
-               "thumb":"http://localhost:3000/attachments/44a702533ff8920fb6a99e3a6dd1484c2db003f9/store/blur/400/533/a6d5f6fd91723f3df679686f0a52f716b8ef949c70627def3e0ef8ee46d0/42117252_2077216415644283_1550113057869398016_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"963ca94a-46bb-4960-b7dc-2eaf4605b6fb",
-         "name":"Adoção: Giló",
-         "description":"CAMPANHA: Adote uma nova Vida! Atualmente, estão ao abrigo da Junta da Freguesia de Ermesinde, dois cães (um macho e uma fêmea) com idade aproximada de 1 ano, devido à indisponibilidade de espaço no Centro Veterinário Municipal de Valongo. Caso esteja interessado, contacte-nos! Nota: Todos os animais adoptados no âmbito desta campanha encontram-se isentos do pagamento de taxas anuais de licença de canídeos na Freguesia de Ermesinde, bem como a gratuitidade na colocação de Microchip e castração no caso das fêmeas.",
-         "age":"Junior",
-         "gender":"Macho",
-         "locality":"Porto, Valongo",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/39fd16b76146f38b8a0b13eb2e5f70968e90d8b0/store/fit/350/250/ebc5c8206046f9d9b4486e7120b792a524cdbaf2391e60ef809ba078b247/IMG_4297_.jpg",
-         "created_at":"2018-03-28T11:47:32.524Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2090826,
-         "map_longitude":-8.544635999999969,
-         "url":"/pt/anuncios/adocao-gilo-1522237652",
-         "images":[
-            {
-               "width":400,
-               "height":600,
-               "url":"http://localhost:3000/attachments/92b851361c649c2c024fe8bc000117f83bfa0569/store/limit/400/600/ebc5c8206046f9d9b4486e7120b792a524cdbaf2391e60ef809ba078b247/IMG_4297_.jpg",
-               "thumb":"http://localhost:3000/attachments/f16e3623924a45126ff645f23bff8462f49c59d0/store/blur/400/600/ebc5c8206046f9d9b4486e7120b792a524cdbaf2391e60ef809ba078b247/IMG_4297_.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"c1ac6f0f-f194-4f50-bd83-bc2a0fa3b6ee",
-         "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Muito meiguinha!",
-         "age":"Junior",
-         "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/67bc52398d32d570110a1dc1e574d5626639a340/store/fit/350/250/c8aeb3deccfc4172cf1216b9545d0d7f3888412cffac34c5ca2c9d41cc1f/54211719_2343964175636171_6942438682611679232_o.jpg",
-         "created_at":"2019-03-19T12:24:21.407Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1552998261",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/ea8b07b63c6c05d580a2066e0f04fb61a925120a/store/limit/400/400/c8aeb3deccfc4172cf1216b9545d0d7f3888412cffac34c5ca2c9d41cc1f/54211719_2343964175636171_6942438682611679232_o.jpg",
-               "thumb":"http://localhost:3000/attachments/01fe40ab7583c9af484af732d0eaa327bb0bdcc1/store/blur/400/400/c8aeb3deccfc4172cf1216b9545d0d7f3888412cffac34c5ca2c9d41cc1f/54211719_2343964175636171_6942438682611679232_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"ab7c419c-ed28-4b0e-a7dd-ee1cb3657916",
-         "name":"Gatinhos pra doar 3 meninos e uma menina",
-         "description":"",
-         "age":"Bebé",
-         "gender":"Macho",
-         "locality":"Aveiro, Águeda",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/12ad258c0328b60cef409ec22a6f8a84634fed45/store/fit/350/250/7aefb09984fa853d50d199794292726904253f0e93a32ba2e59fa99e0d1b/20180701_152114.jpg",
-         "created_at":"2018-07-05T08:42:12.485Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.60572639999999,
-         "map_longitude":-8.461031000000048,
-         "url":"/pt/anuncios/gatinhos-pra-doar-3-meninos-e-uma-menina-1530780132",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/d8b43c1ae80cd81966c99f677629d43bb7afd5b5/store/limit/400/225/7aefb09984fa853d50d199794292726904253f0e93a32ba2e59fa99e0d1b/20180701_152114.jpg",
-               "thumb":"http://localhost:3000/attachments/5cce990688b68632d699b5a75784a04a80376ae9/store/blur/400/225/7aefb09984fa853d50d199794292726904253f0e93a32ba2e59fa99e0d1b/20180701_152114.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"56e3a87a-5447-4445-8958-899e927a6543",
-         "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Muito meiga e brincalhona! ",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/e6e8d6b64a1653cfa5dd4d25901fb9f3e7d6e495/store/fit/350/250/5d0a201b7e87b4edb8bf7a85cc2dded3bb0b8e8129b47336ac8b4629112f/53485368_2333044200061502_1754889062658867200_o.jpg",
-         "created_at":"2019-03-14T16:33:50.157Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1552581230",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/a492ac92ad418f160fb96f0f1162cc87528285f9/store/limit/400/400/5d0a201b7e87b4edb8bf7a85cc2dded3bb0b8e8129b47336ac8b4629112f/53485368_2333044200061502_1754889062658867200_o.jpg",
-               "thumb":"http://localhost:3000/attachments/741c3a537d8947fb17f8b3b9667166bc310d9aa1/store/blur/400/400/5d0a201b7e87b4edb8bf7a85cc2dded3bb0b8e8129b47336ac8b4629112f/53485368_2333044200061502_1754889062658867200_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"8ae2d038-75ab-4912-b404-040f951312d8",
-         "name":"Olaf",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/a384ccd80506442acb6b231679f668b2e03f16b6/store/fit/350/250/e3419b10886d50446d2457d0aa5362e843a83a4a4ef19205ed5e20db8290/IMG_8237.JPG",
-         "created_at":"2020-01-29T14:04:51.780Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/olaf-1580306691",
-         "images":[
-            {
-               "width":400,
-               "height":266,
-               "url":"http://localhost:3000/attachments/1995c8ec8431e31862e660d527ccac051342738d/store/limit/400/266/e3419b10886d50446d2457d0aa5362e843a83a4a4ef19205ed5e20db8290/IMG_8237.JPG",
-               "thumb":"http://localhost:3000/attachments/ba633f3c4d4f7512c2159af0d5164b4ec1b64d20/store/blur/400/266/e3419b10886d50446d2457d0aa5362e843a83a4a4ef19205ed5e20db8290/IMG_8237.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"c446b903-c9b1-4684-b127-ed4bc7d28c96",
-         "name":"Panda",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/277190e40fbc9995a9e0e6248f01e2dde697aec1/store/fit/350/250/12cebe9a5bc522b00267bc0bba26b3c28c9c01d561dd652c43ae636886de/Panda.jpg",
-         "created_at":"2020-01-16T15:13:31.166Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5965196,
-         "map_longitude":-8.64185729999997,
-         "url":"/pt/anuncios/panda-1579187611",
-         "images":[
-            {
-               "width":400,
-               "height":304,
-               "url":"http://localhost:3000/attachments/ab453cf9adcfb7960b8b6b8afb306fab77b7701b/store/limit/400/304/12cebe9a5bc522b00267bc0bba26b3c28c9c01d561dd652c43ae636886de/Panda.jpg",
-               "thumb":"http://localhost:3000/attachments/549f4592fa89390e25131806133dace607411a32/store/blur/400/304/12cebe9a5bc522b00267bc0bba26b3c28c9c01d561dd652c43ae636886de/Panda.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"616ca0c2-bd74-488d-8e1d-be04db4549e3",
-         "name":"Desaparecido",
-         "description":"Meigo ,amigo e muito protetor da família.",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Porto, Porto",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/7bfb4d117c4952cc4ccf5c6f25bb1f86f22b0526/store/fit/350/250/b84d6dd332cc8dba8d06a1e6346650eca86055ac43f56855d05558398d4b/FB_IMG_1511261496780.jpg",
-         "created_at":"2017-11-21T11:23:13.765Z",
-         "announcement_type":"lost",
-         "announcement_type_translated":"Perdi",
-         "map_latitude":41.1478992,
-         "map_longitude":-8.640360099999953,
-         "url":"/pt/anuncios/desaparecido-1511263393",
-         "images":[
-            {
-               "width":400,
-               "height":711,
-               "url":"http://localhost:3000/attachments/c39834439b158f935ed29e79a34ab9cc40671ac4/store/limit/400/711/b84d6dd332cc8dba8d06a1e6346650eca86055ac43f56855d05558398d4b/FB_IMG_1511261496780.jpg",
-               "thumb":"http://localhost:3000/attachments/d08c65127f3aabc2f5fd3731f36b23cce4845ccb/store/blur/400/711/b84d6dd332cc8dba8d06a1e6346650eca86055ac43f56855d05558398d4b/FB_IMG_1511261496780.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"4ddbbfdd-1c31-472b-a76c-af5d5452337f",
-         "name":"Bugalha",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"5 meses",
-         "thumb":"http://localhost:3000/attachments/7e0d75369e2e24302b6f9d851da364871034e810/store/fit/350/250/32bd9d543dbedc034a99d0ee2ff9cc1ed1002b364e4003a342904a9749b7/Bugalha.jpg",
-         "created_at":"2019-11-14T15:13:16.482Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5965196,
-         "map_longitude":-8.64185729999997,
-         "url":"/pt/anuncios/bugalha-1573744396",
-         "images":[
-            {
-               "width":400,
-               "height":352,
-               "url":"http://localhost:3000/attachments/96d3ca00663dc2db46729b5869c5298459a9ee1a/store/limit/400/352/32bd9d543dbedc034a99d0ee2ff9cc1ed1002b364e4003a342904a9749b7/Bugalha.jpg",
-               "thumb":"http://localhost:3000/attachments/a8690aa51982efd34113402e675b2e24ab402b4a/store/blur/400/352/32bd9d543dbedc034a99d0ee2ff9cc1ed1002b364e4003a342904a9749b7/Bugalha.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"98875c9d-8833-4963-ace9-61e272ccfe6f",
-         "name":"Eira",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/fb7f940b67ac4b6f4b983531cda8c95a7877838e/store/fit/350/250/44680c1be93186375488db3a95a56e9dab3364dade351e4190e9581f95a1/Eira+2.jpg",
-         "created_at":"2019-01-22T16:28:28.029Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5965196,
-         "map_longitude":-8.64185729999997,
-         "url":"/pt/anuncios/eira-1548174508",
-         "images":[
-            {
-               "width":400,
-               "height":267,
-               "url":"http://localhost:3000/attachments/8734be96d7c5666f7ada3c1dc75b0b32ab721bae/store/limit/400/267/44680c1be93186375488db3a95a56e9dab3364dade351e4190e9581f95a1/Eira+2.jpg",
-               "thumb":"http://localhost:3000/attachments/6b060834f7dc2161aa93c0cb9033660f9810aaa7/store/blur/400/267/44680c1be93186375488db3a95a56e9dab3364dade351e4190e9581f95a1/Eira+2.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"60cd3119-42ed-4085-b848-549814613300",
-         "name":"Uno",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/a8005fabb0b8f72401a83bb50040c287071e2ab5/store/fit/350/250/1fb8a0e0d0475ef870238ad2a18ca0e1f838bde4ad0e358991c30d26c8c3/uno.jpg",
-         "created_at":"2018-11-21T12:35:56.233Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5962722,
-         "map_longitude":-8.641906699999936,
-         "url":"/pt/anuncios/uno-1542803756",
-         "images":[
-            {
-               "width":400,
-               "height":321,
-               "url":"http://localhost:3000/attachments/06314545983fbee6702dc550c17d84ae3cafd652/store/limit/400/321/1fb8a0e0d0475ef870238ad2a18ca0e1f838bde4ad0e358991c30d26c8c3/uno.jpg",
-               "thumb":"http://localhost:3000/attachments/32cd828e6d1d06900e36dcfd127c04b419c58e10/store/blur/400/321/1fb8a0e0d0475ef870238ad2a18ca0e1f838bde4ad0e358991c30d26c8c3/uno.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"377a6af0-bdb3-4c48-b645-51717b2a148a",
-         "name":"Macho (porte médio)",
-         "description":"Porte médio. Muito dócil ",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/492f858beb5d190c2fe2aafc32c06c352b4c0fb6/store/fit/350/250/0f8c9f4fe20d814d5954f50520fdd14bde26a3f686e6df43a5e84ebd8559/13851.jpg",
-         "created_at":"2018-11-15T11:03:08.993Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-porte-medio-1542279788",
-         "images":[
-            {
-               "width":400,
-               "height":776,
-               "url":"http://localhost:3000/attachments/46a16ed5295c69474542b93d8b690073e249b135/store/limit/400/776/5ee08e2e87df8b2d476ce81f852355af25944cf667ddb8066dc80f58f7a4/46361114_434889353710225_1974091261300178944_n.jpg",
-               "thumb":"http://localhost:3000/attachments/e41c3099c14f7e2a1077069b6a778e4d34701789/store/blur/400/776/5ee08e2e87df8b2d476ce81f852355af25944cf667ddb8066dc80f58f7a4/46361114_434889353710225_1974091261300178944_n.jpg"
-            },
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/ac0f2ef49655bae52d79adec2e6f0f8863800253/store/limit/400/400/0f8c9f4fe20d814d5954f50520fdd14bde26a3f686e6df43a5e84ebd8559/13851.jpg",
-               "thumb":"http://localhost:3000/attachments/d2e2e6ace50f2767743b649903d8ed24467953d9/store/blur/400/400/0f8c9f4fe20d814d5954f50520fdd14bde26a3f686e6df43a5e84ebd8559/13851.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"b004239f-df1f-49b3-b500-aee66cb16400",
-         "name":"Simone",
-         "description":"Apesar da idade, a Simone ainda está aqui para as curvas!Ainda brinca e adora passear.Precisa de uma família 5* CANDIDATURA A ADOPÇAO:http://www.associacaomidas.org/proposta-de-adopcao-canideo/",
-         "age":"Sénior",
-         "gender":"Fêmea",
-         "locality":"Porto, Matosinhos",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/44eee451dc77276872c9d06a68c1b897b74723f5/store/fit/350/250/b0d2f00d08d123303d863b8f25ad76bb3c2d19b2a57e22f388e3fe2c9d85/9+-+simone.jpg",
-         "created_at":"2018-07-06T11:42:56.588Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2181262,
-         "map_longitude":-8.657933100000037,
-         "url":"/pt/anuncios/simone-1530877376",
-         "images":[
-            {
-               "width":400,
-               "height":458,
-               "url":"http://localhost:3000/attachments/1ddad82c2f8d83d5e47563395755dc8cf98744dc/store/limit/400/458/b0d2f00d08d123303d863b8f25ad76bb3c2d19b2a57e22f388e3fe2c9d85/9+-+simone.jpg",
-               "thumb":"http://localhost:3000/attachments/db4dfe4775e2ff392ed01e96929cb5d4cf2002ca/store/blur/400/458/b0d2f00d08d123303d863b8f25ad76bb3c2d19b2a57e22f388e3fe2c9d85/9+-+simone.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Associação Midas"
-      },
-      {
-         "id":"9d17032d-0de6-48c1-8ac0-eba7f70ce840",
-         "name":"Pipoca Animal n° 169/2017 para adoção responsável ",
-         "description":"Muito meiga e carente. Porte pequeno/ médio. Vacinada e esterilizada!",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/342f551a23d9f5c28dd44e53bfab978fe8da75ac/store/fit/350/250/1eeaade4f9af4d6a35a60b52e7a46e5db5d6351bc60a8b5c5ade367b3fdc/20190110_012740.jpg",
-         "created_at":"2019-01-10T13:25:09.150Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/pipoca-animal-n-169-2017-para-adocao-responsavel-1547126709",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/304bdb51f9d094d28db4c5da2534111e350af514/store/limit/400/400/1eeaade4f9af4d6a35a60b52e7a46e5db5d6351bc60a8b5c5ade367b3fdc/20190110_012740.jpg",
-               "thumb":"http://localhost:3000/attachments/e4d85135f0ebb50a141b307fcd14546ecd78353a/store/blur/400/400/1eeaade4f9af4d6a35a60b52e7a46e5db5d6351bc60a8b5c5ade367b3fdc/20190110_012740.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"d6eab3f3-a5f7-4566-85de-056699471c99",
-         "name":"Urgente!",
-         "description":"Precisamos de encontrar família para estes meninos. São uns queridos, muito meigos e dão-se  com gatos. ",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Lisboa, Lisboa",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/8f53e4d21d3bccfbe9a0eed17f6ffc658abf317e/store/fit/350/250/b2cde9d6240a942b55554c32349a076a9d5f615af469385904dd8dc1f1de/FB_IMG_1514661891073.jpg",
-         "created_at":"2017-12-30T19:35:45.347Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2163514,
-         "map_longitude":-8.619075500000008,
-         "url":"/pt/anuncios/urgente-1514662545",
-         "images":[
-            {
-               "width":400,
-               "height":405,
-               "url":"http://localhost:3000/attachments/217d163f3ae15a83c553fe565e3b3c94d4f9865b/store/limit/400/405/b2cde9d6240a942b55554c32349a076a9d5f615af469385904dd8dc1f1de/FB_IMG_1514661891073.jpg",
-               "thumb":"http://localhost:3000/attachments/772a597867ac2ff1ff14d021677191dde6472445/store/blur/400/405/b2cde9d6240a942b55554c32349a076a9d5f615af469385904dd8dc1f1de/FB_IMG_1514661891073.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"9c410f8f-76cd-4ccc-baf6-23b960f44c52",
-         "name":"128",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"9 meses",
-         "thumb":"http://localhost:3000/attachments/43ae9843db69dc0724d4da276d64fd8713ff4346/store/fit/350/250/47a7efb9efd0e69c35ebe7da5d6b65887c0e597c7f8f62b337685c89fef5/12.jpg",
-         "created_at":"2019-07-16T21:03:57.618Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/128-1563311037",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/aee8bae186ebd78a6bca437befaf134b8a7dbb86/store/limit/400/533/47a7efb9efd0e69c35ebe7da5d6b65887c0e597c7f8f62b337685c89fef5/12.jpg",
-               "thumb":"http://localhost:3000/attachments/6fd6094c48adfa94dd1c118d7a716a83a93a52c1/store/blur/400/533/47a7efb9efd0e69c35ebe7da5d6b65887c0e597c7f8f62b337685c89fef5/12.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"5da06900-b75b-4ee8-af07-5f4a226981e1",
-         "name":"Macho (Porte Médio) ",
-         "description":"Divertido e brincalhão é assim que podemos caracterizar este lindo patudo. nº542/2017",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":1,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/04238ff99addbbc7db3f880bfaccd78b43d0c84c/store/fit/350/250/4be3aeb20df6540a88af300dc0ede7e97001a415c3f4eb53732260c3cba0/DSC08059.JPG",
-         "created_at":"2017-09-21T12:55:49.861Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/macho-porte-medio-1524488178",
-         "images":[
-            {
-               "width":400,
-               "height":447,
-               "url":"http://localhost:3000/attachments/f6ca4557a0719f33d50df0d1cf73f725ffaaa7af/store/limit/400/447/4be3aeb20df6540a88af300dc0ede7e97001a415c3f4eb53732260c3cba0/DSC08059.JPG",
-               "thumb":"http://localhost:3000/attachments/c111946477af5aafb698884251e126b5a76d2d24/store/blur/400/447/4be3aeb20df6540a88af300dc0ede7e97001a415c3f4eb53732260c3cba0/DSC08059.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"d9ec7f8b-2473-41f7-b2e3-da74aa5296d0",
-         "name":"085",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"9 meses",
-         "thumb":"http://localhost:3000/attachments/90d41b2e45cd52647882659df940d4b1fceaa823/store/fit/350/250/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg",
-         "created_at":"2019-07-17T14:25:24.055Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/085-1563373524",
-         "images":[
-            {
-               "width":400,
-               "height":300,
-               "url":"http://localhost:3000/attachments/21230b60358aea9714a2e19d3d6c000e94b3e9bb/store/limit/400/300/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg",
-               "thumb":"http://localhost:3000/attachments/b3b0e75e381b4fa611accdb9aa132a2408341ffe/store/blur/400/300/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"83797775-c661-4879-886f-2521b561014b",
-         "name":"Macho (porte médio)",
-         "description":"Macho de porte médio muito meiguinho.",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/db36b3f49424f7a0297f38a32a46f2d9d2eefe9f/store/fit/350/250/0d62eeaf571b936f3968d5a3dc9d281c4f3827db25fffa5b35b0a089543a/45263460_2142405462458711_515608556142067712_o.jpg",
-         "created_at":"2018-11-05T14:46:58.599Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-porte-medio-1541429218",
-         "images":[
-            {
-               "width":400,
-               "height":649,
-               "url":"http://localhost:3000/attachments/ffc44be6ce584b34c950ef74de3f2a57e13d9af0/store/limit/400/649/0d62eeaf571b936f3968d5a3dc9d281c4f3827db25fffa5b35b0a089543a/45263460_2142405462458711_515608556142067712_o.jpg",
-               "thumb":"http://localhost:3000/attachments/b768fd7b5fc74f31ab687e72708c2f3842c54408/store/blur/400/649/0d62eeaf571b936f3968d5a3dc9d281c4f3827db25fffa5b35b0a089543a/45263460_2142405462458711_515608556142067712_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"22e4b1e9-e6a3-4095-ad48-6145e9f25084",
-         "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Muito fofinha e brincalhona!",
-         "age":"Junior",
-         "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/45dab602e9aa6cb99c8809cc8f069fce0263827a/store/fit/350/250/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg",
-         "created_at":"2019-03-27T11:16:42.082Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1553685402",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/63dad221c31670d6211cd475b41901dba103cecb/store/limit/400/400/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg",
-               "thumb":"http://localhost:3000/attachments/1eed2c7bc618fc34e1649c3c2577a417474a05af/store/blur/400/400/c4e905ca2a6f3c3e6e70fa1e2cd551cb8e5c41c4aedb660c16f373e15b14/51669873_2285725894793333_5957134942520475648_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"183977ad-5440-481d-9a9a-5d7777276f64",
-         "name":"Huke",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":1,
-         "short_date":"quase 2 anos",
-         "thumb":null,
-         "created_at":"2018-04-26T10:20:47.824Z",
-         "announcement_type":"found",
-         "announcement_type_translated":"Encontrei",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/huke-1524738047",
-         "images":[
-
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"1b8f3471-9ef9-4cf2-a437-d9c0252036fa",
-         "name":"888",
-         "description":"Macho adulto dócil",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"6 meses",
-         "thumb":"http://localhost:3000/attachments/0df03abed197c0d387a018c8ebd9c9f23de3e551/store/fit/350/250/3cf3482fc3218a494ac921fb8e3e3dd7173c9f38b632118ce76e807a7cf6/888.JPG",
-         "created_at":"2019-10-23T15:00:33.201Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/888-1571842833",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/11f5194f2b2dbb687828b2eceea588f75c9b186b/store/limit/400/225/b50814d7971a26b1e87ac5ddf2f77a1d12c27daa680fb5f061ff3492108f/888+2.JPG",
-               "thumb":"http://localhost:3000/attachments/1be43c682cafaaa45bd987607068f1c303803b12/store/blur/400/225/b50814d7971a26b1e87ac5ddf2f77a1d12c27daa680fb5f061ff3492108f/888+2.JPG"
-            },
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/b7198882fb2eb6015b73234687b973c131e0e964/store/limit/400/225/3cf3482fc3218a494ac921fb8e3e3dd7173c9f38b632118ce76e807a7cf6/888.JPG",
-               "thumb":"http://localhost:3000/attachments/a46a3ac71f13bce95e19fb4813d63e034891597a/store/blur/400/225/3cf3482fc3218a494ac921fb8e3e3dd7173c9f38b632118ce76e807a7cf6/888.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"59c88731-5f2e-4d52-b893-4e06d47874da",
-         "name":"Thunder",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/54388e80726b7a802c385bd0df5f14d3680a71a8/store/fit/350/250/592a60f72f9db42a10f51732b9fcf17c3a01e3bb5363ea7267b27edb8051/IMG_8072.JPG",
-         "created_at":"2020-01-30T10:43:44.794Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/thunder-1580381024",
-         "images":[
-            {
-               "width":400,
-               "height":266,
-               "url":"http://localhost:3000/attachments/6c6e0bfb9609edd2e4c087237d374c75f8fde7d2/store/limit/400/266/592a60f72f9db42a10f51732b9fcf17c3a01e3bb5363ea7267b27edb8051/IMG_8072.JPG",
-               "thumb":"http://localhost:3000/attachments/4849e194f29d24a1604a1f141a38daca02aac3a0/store/blur/400/266/592a60f72f9db42a10f51732b9fcf17c3a01e3bb5363ea7267b27edb8051/IMG_8072.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
       },
       {
          "id":"eb3b3055-5f82-4d5a-869d-4bf031030cfb",
@@ -1609,733 +154,139 @@
          "account_name":"Municipio de Guimarães"
       },
       {
-         "id":"392d9d17-946b-4104-bc9a-22d50bf6fe3b",
-         "name":"138",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"9 meses",
-         "thumb":"http://localhost:3000/attachments/8b6f4b4315b362c942b0cb6a88abb8f5f8884097/store/fit/350/250/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg",
-         "created_at":"2019-07-16T20:50:55.292Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/138-1563310255",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/c0d79987e6499167480c957badd98816009af862/store/limit/400/533/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg",
-               "thumb":"http://localhost:3000/attachments/10855641a953a88f3c2c7093c32972682152d146/store/blur/400/533/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"22e75bca-cf3d-4a18-8701-a7a17dc8da59",
-         "name":"Doberman",
-         "description":"Caes descendentes de exemplares da raca, tenho o casal que pode ser visto a qualquer momento.\r\n\r\nOptimo temperamento e excelente companhia, so visto",
-         "age":"Bebé",
-         "gender":"Macho",
-         "locality":"Porto, Maia",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/bef7af4e97d53cf91bb35c8ee3ebaed54c074e40/store/fit/350/250/aa4d1fc4bd54c9d3dd7d6d25a0cb121864f26cfda67e92fbcf912c97d90d/IMG_20171031_202327.jpg",
-         "created_at":"2017-11-01T02:36:28.333Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2229524,
-         "map_longitude":-8.615248199999996,
-         "url":"/pt/anuncios/doberman-1509503788",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/ab771b8cadd4a537a74d00621e798e8fef1ef3e2/store/limit/400/225/aa4d1fc4bd54c9d3dd7d6d25a0cb121864f26cfda67e92fbcf912c97d90d/IMG_20171031_202327.jpg",
-               "thumb":"http://localhost:3000/attachments/abbfd63b6a6e8fd59136d1e5c38b1472bae60111/store/blur/400/225/aa4d1fc4bd54c9d3dd7d6d25a0cb121864f26cfda67e92fbcf912c97d90d/IMG_20171031_202327.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"669b5485-7191-4bfe-a07a-a1ca72d59aa3",
-         "name":"Macho (Porte Médio) ",
-         "description":"Brincalhão e amoroso este cãozinho merece um lar! nº469/2017",
-         "age":"Junior",
-         "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/388d3d7a5b6de6f45289abdc365400b6cf6db541/store/fit/350/250/771b4683e77e1614feb16918b8a1e5adce38a0996c396d33e74faec03c21/DSC08252.JPG",
-         "created_at":"2017-10-31T15:58:04.181Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/macho-porte-medio-1524488147",
-         "images":[
-            {
-               "width":400,
-               "height":300,
-               "url":"http://localhost:3000/attachments/9403b5111f2ec75eb6add7f6ed5d22c3a002ef25/store/limit/400/300/771b4683e77e1614feb16918b8a1e5adce38a0996c396d33e74faec03c21/DSC08252.JPG",
-               "thumb":"http://localhost:3000/attachments/65a386639b63b50f72af9f91cd35670c68b9836c/store/blur/400/300/771b4683e77e1614feb16918b8a1e5adce38a0996c396d33e74faec03c21/DSC08252.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"3d4749a3-e43a-4190-885b-7762faa7e175",
+         "id":"50fb4f84-9995-405c-9ec6-6665c54b61fc",
          "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Muito meiga e divertida!",
+         "description":"Cachorrinha muito fofinha...",
          "age":"Junior",
          "gender":"Fêmea",
          "locality":"Bragança, Mirandela",
          "favorite_count":0,
          "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/388effe476e50ab2c2589f61c9f08797ec820074/store/fit/350/250/f5993f9df134520e74cfdaf865408f0c41f216a5e403c81c5f4d65423ec2/53593412_2333132666719322_4368069932890456064_o.jpg",
-         "created_at":"2019-03-14T16:38:21.796Z",
+         "thumb":"http://localhost:3000/attachments/05a029a8a8e5cef6f723d920a75095eddde18e55/store/fit/350/250/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
+         "created_at":"2019-03-15T10:59:29.400Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
          "map_latitude":41.374074,
          "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1552581501",
+         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1552647569",
          "images":[
             {
                "width":400,
                "height":400,
-               "url":"http://localhost:3000/attachments/1dbf7675eb81d88c8cbe869b342819cb09453e89/store/limit/400/400/f5993f9df134520e74cfdaf865408f0c41f216a5e403c81c5f4d65423ec2/53593412_2333132666719322_4368069932890456064_o.jpg",
-               "thumb":"http://localhost:3000/attachments/f49825fe6b3995c30c4ea42357075b50e1101f6f/store/blur/400/400/f5993f9df134520e74cfdaf865408f0c41f216a5e403c81c5f4d65423ec2/53593412_2333132666719322_4368069932890456064_o.jpg"
+               "url":"http://localhost:3000/attachments/d56d98a6ab9ca2ab5fb63c1760447472ea4c99e6/store/limit/400/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
+               "thumb":"http://localhost:3000/attachments/c36e161e679205ad483e85befe2b1d7eab0ab171/store/blur/400/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg"
             }
          ],
          "from_petcare":true,
          "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
       },
       {
-         "id":"27e14b0f-1b1e-4684-a3ed-50d3ad88bbc4",
-         "name":"1058",
-         "description":"Fêmea porte pequeno, dócil com cerca de 2 anos",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/a227f397ba4f73adb35c1f697bca1acd107b01d4/store/fit/350/250/9cd50d01356ac1ab0551410deda4191edfdc9a9fab9fcf6b0dbcd5274778/1058.JPG",
-         "created_at":"2020-01-09T13:01:51.901Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/1058-1578574911",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/ee06517379db4a3834b4ca28bbaac02084f5d11e/store/limit/400/225/9cd50d01356ac1ab0551410deda4191edfdc9a9fab9fcf6b0dbcd5274778/1058.JPG",
-               "thumb":"http://localhost:3000/attachments/3a254698330a834cc6ec9a3d88469693e5729406/store/blur/400/225/9cd50d01356ac1ab0551410deda4191edfdc9a9fab9fcf6b0dbcd5274778/1058.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"da06d4a5-19f2-480f-a86a-dc51cc18f111",
-         "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Cachorrinha muito meiga!",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/7948cf325d075e574072729ad7502fda143a74ab/store/fit/350/250/1fe9da238d1c72d4330914c909e3b6eafdc345f2a9eab0ab56c366c373e9/53206756_2335708269795095_7442255885251903488_o.jpg",
-         "created_at":"2019-03-27T12:09:20.846Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1553688560",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/92e554097e16ac46506baee143866a9b48ef78a0/store/limit/400/400/1fe9da238d1c72d4330914c909e3b6eafdc345f2a9eab0ab56c366c373e9/53206756_2335708269795095_7442255885251903488_o.jpg",
-               "thumb":"http://localhost:3000/attachments/7f290aa35f66d81508dce25782282fb7dddac7a1/store/blur/400/400/1fe9da238d1c72d4330914c909e3b6eafdc345f2a9eab0ab56c366c373e9/53206756_2335708269795095_7442255885251903488_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"adc2194a-d2d1-4cd6-8ef7-434323ebfd13",
-         "name":"Dado",
+         "id":"98875c9d-8833-4963-ace9-61e272ccfe6f",
+         "name":"Eira",
          "description":"",
          "age":"Adulto",
-         "gender":"Macho",
+         "gender":"Fêmea",
          "locality":"Beja, Odemira",
          "favorite_count":0,
-         "short_date":"10 meses",
-         "thumb":"http://localhost:3000/attachments/5c3a362bcb767d0bf82e213e5f3dffaf906eca17/store/fit/350/250/f6984f9fec32987787e27fe231b21e440896ec9d8ea30a32e2974fe0cb09/Dado.jpg",
-         "created_at":"2019-06-19T09:32:07.560Z",
+         "short_date":"acerca de 1 ano",
+         "thumb":"http://localhost:3000/attachments/fb7f940b67ac4b6f4b983531cda8c95a7877838e/store/fit/350/250/44680c1be93186375488db3a95a56e9dab3364dade351e4190e9581f95a1/Eira+2.jpg",
+         "created_at":"2019-01-22T16:28:28.029Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
          "map_latitude":37.5965196,
          "map_longitude":-8.64185729999997,
-         "url":"/pt/anuncios/dado-1560936727",
+         "url":"/pt/anuncios/eira-1548174508",
          "images":[
             {
                "width":400,
-               "height":280,
-               "url":"http://localhost:3000/attachments/662ef5cea18516e3fcc339f390f49752a046b400/store/limit/400/280/f6984f9fec32987787e27fe231b21e440896ec9d8ea30a32e2974fe0cb09/Dado.jpg",
-               "thumb":"http://localhost:3000/attachments/40049a2c60f05dec1e703a0e8e06952d949e16f6/store/blur/400/280/f6984f9fec32987787e27fe231b21e440896ec9d8ea30a32e2974fe0cb09/Dado.jpg"
+               "height":267,
+               "url":"http://localhost:3000/attachments/8734be96d7c5666f7ada3c1dc75b0b32ab721bae/store/limit/400/267/44680c1be93186375488db3a95a56e9dab3364dade351e4190e9581f95a1/Eira+2.jpg",
+               "thumb":"http://localhost:3000/attachments/6b060834f7dc2161aa93c0cb9033660f9810aaa7/store/blur/400/267/44680c1be93186375488db3a95a56e9dab3364dade351e4190e9581f95a1/Eira+2.jpg"
             }
          ],
          "from_petcare":true,
          "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
       },
       {
-         "id":"b07e5404-0dcb-4be4-9b83-d54375084c2d",
-         "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Cadelinha muito meiga!",
-         "age":"Bebé",
+         "id":"1671d693-5933-49dc-8b12-da03f764052e",
+         "name":"Mia",
+         "description":"A Mia é uma gata meiga, energética que gosta de brincar. Precisa de uma família que aceite essa energia que ela para já vai manifestando…  Esta menina procura uma família especial, para partilhar os próximos 20 anos… para o bem e para o mal (como deveria sempre ser)!  Adopção sujeita à assinatura de um termo de adopção e à comparticipação no valor do microchip colocado (15€) e vacina (20€)  Para adoptar com consciência e por muitos e longos anos:  https://www.associacaomidas.org/adopcoes/proposta-de-adopcao-gatideo/  Dúvidas sobre adopçoes de gatos: bolinhasdepelo@gmail.com",
+         "age":"Adulto",
          "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/f1a0c66b513ae7e907be887b47ef39782d070cce/store/fit/350/250/1d15da2888defa01d9f076347a22de14914e91327c5289ca406bbd825d93/51918272_2285706498128606_7131458492501590016_o.jpg",
-         "created_at":"2019-03-15T11:04:46.475Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1552647886",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/827ecf0ec8433f7fd9dceddc7929b432ff63b0a8/store/limit/400/400/1d15da2888defa01d9f076347a22de14914e91327c5289ca406bbd825d93/51918272_2285706498128606_7131458492501590016_o.jpg",
-               "thumb":"http://localhost:3000/attachments/a10525852f76c60caa4cc67d65c3cd40aa0b4bab/store/blur/400/400/1d15da2888defa01d9f076347a22de14914e91327c5289ca406bbd825d93/51918272_2285706498128606_7131458492501590016_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"320cffc5-184e-4fd7-bc1d-3fed5e61762d",
-         "name":"Fêmea S.R.D. Porte pequeno. ",
-         "description":"Muito fofinha e meiga!",
-         "age":"Bebé",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/f2e5b42fea4c5659e00d18eae56c916f51ace757/store/fit/350/250/99c19c7e555a3aca729babcc50c0ef1cae9a2b7ff678cbf1346eae252886/53712330_2336420849723837_5550413324979535872_o.jpg",
-         "created_at":"2019-03-27T12:11:28.856Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-pequeno-1553688688",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/464d619167740c1118f0e8002f9ab4b9822d0844/store/limit/400/400/99c19c7e555a3aca729babcc50c0ef1cae9a2b7ff678cbf1346eae252886/53712330_2336420849723837_5550413324979535872_o.jpg",
-               "thumb":"http://localhost:3000/attachments/926fdaaec885abda2e3c7d2b190e67ed5cdb0785/store/blur/400/400/99c19c7e555a3aca729babcc50c0ef1cae9a2b7ff678cbf1346eae252886/53712330_2336420849723837_5550413324979535872_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"1667f688-766c-4827-9caf-bae2df87a968",
-         "name":"Jesus",
-         "description":"Apesar da idade, o Jesus gosta imenso de passear, e é muito fácil de o fazer com ele, o que é ideal para uma família com uma idade avançada e que procure uma cãopanhia :). É sociável com outros cães e não perde uma oportunidade de ser mimado",
-         "age":"Sénior",
-         "gender":"Macho",
          "locality":"Porto, Matosinhos",
          "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/d403d06214df2d99ddf003689db8fd434d342218/store/fit/350/250/c0b4807d3338f21a246e7b6524b0fb1a35c84e2a1fda7004b1e054cec57d/Jesus.jpg",
-         "created_at":"2018-07-27T16:22:52.167Z",
+         "short_date":"quase 2 anos",
+         "thumb":"http://localhost:3000/attachments/c07eb6e72004f94ec7fa92640f47cd5983ddbdfa/store/fit/350/250/e987ad88708280beaf041e9e9f006da24ab68550f12b9945537401d37c8a/1459+-+mia.jpg",
+         "created_at":"2018-07-06T13:46:26.078Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
          "map_latitude":41.2181262,
          "map_longitude":-8.657933100000037,
-         "url":"/pt/anuncios/jesus-1532708572",
+         "url":"/pt/anuncios/mia-1530884786",
          "images":[
             {
                "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/b287d8102d4ed711b377a86e734d5bd44fa9715c/store/limit/400/533/c0b4807d3338f21a246e7b6524b0fb1a35c84e2a1fda7004b1e054cec57d/Jesus.jpg",
-               "thumb":"http://localhost:3000/attachments/2e5f544a8a38960c2f37bc3b521378ebc387165e/store/blur/400/533/c0b4807d3338f21a246e7b6524b0fb1a35c84e2a1fda7004b1e054cec57d/Jesus.jpg"
+               "height":370,
+               "url":"http://localhost:3000/attachments/f2126f1b4311b6c792ce30894fd4bb8263e53887/store/limit/400/370/e987ad88708280beaf041e9e9f006da24ab68550f12b9945537401d37c8a/1459+-+mia.jpg",
+               "thumb":"http://localhost:3000/attachments/25e4bfb60f446d658bbc5a023471215aa7316b16/store/blur/400/370/e987ad88708280beaf041e9e9f006da24ab68550f12b9945537401d37c8a/1459+-+mia.jpg"
             }
          ],
          "from_petcare":true,
          "account_name":"Associação Midas"
       },
       {
-         "id":"6d4ae573-2ff2-4dd3-967c-d7c9e5661249",
-         "name":"Troy",
-         "description":"",
+         "id":"616ca0c2-bd74-488d-8e1d-be04db4549e3",
+         "name":"Desaparecido",
+         "description":"Meigo ,amigo e muito protetor da família.",
          "age":"Adulto",
          "gender":"Macho",
-         "locality":"Beja, Odemira",
+         "locality":"Porto, Porto",
          "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/d65bdb20e3417665e0b45850f89eac831eee12b1/store/fit/350/250/685663a32357c26e2530295d53c2b129f9a64d21b36b495637ce5a6a1f93/Troy.jpg",
-         "created_at":"2018-11-21T14:25:59.771Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5962722,
-         "map_longitude":-8.641906699999936,
-         "url":"/pt/anuncios/troy-1542810359",
+         "short_date":"mais de 2 anos",
+         "thumb":"http://localhost:3000/attachments/7bfb4d117c4952cc4ccf5c6f25bb1f86f22b0526/store/fit/350/250/b84d6dd332cc8dba8d06a1e6346650eca86055ac43f56855d05558398d4b/FB_IMG_1511261496780.jpg",
+         "created_at":"2017-11-21T11:23:13.765Z",
+         "announcement_type":"lost",
+         "announcement_type_translated":"Perdi",
+         "map_latitude":41.1478992,
+         "map_longitude":-8.640360099999953,
+         "url":"/pt/anuncios/desaparecido-1511263393",
          "images":[
             {
                "width":400,
-               "height":381,
-               "url":"http://localhost:3000/attachments/52acbe91973c3d7cf8c3b7eb14a75fcc50f49b40/store/limit/400/381/685663a32357c26e2530295d53c2b129f9a64d21b36b495637ce5a6a1f93/Troy.jpg",
-               "thumb":"http://localhost:3000/attachments/2a198d39b1f6c0a3bb43eb9bf68a9399a2b5dacc/store/blur/400/381/685663a32357c26e2530295d53c2b129f9a64d21b36b495637ce5a6a1f93/Troy.jpg"
+               "height":711,
+               "url":"http://localhost:3000/attachments/c39834439b158f935ed29e79a34ab9cc40671ac4/store/limit/400/711/b84d6dd332cc8dba8d06a1e6346650eca86055ac43f56855d05558398d4b/FB_IMG_1511261496780.jpg",
+               "thumb":"http://localhost:3000/attachments/d08c65127f3aabc2f5fd3731f36b23cce4845ccb/store/blur/400/711/b84d6dd332cc8dba8d06a1e6346650eca86055ac43f56855d05558398d4b/FB_IMG_1511261496780.jpg"
             }
          ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
+         "from_petcare":false,
+         "account_name":null
       },
       {
-         "id":"699ddd43-dcb0-42e2-89b8-08d53b06c55a",
-         "name":"885",
-         "description":"Femea dócil com cerca de 2 anos",
+         "id":"87035b7b-b30c-4e73-89ec-0666f8b92df9",
+         "name":"1045",
+         "description":"Macho jovem dócil e sociável",
          "age":"Adulto",
-         "gender":"Fêmea",
+         "gender":"Macho",
          "locality":"Açores, Lagoa",
          "favorite_count":0,
          "short_date":"6 meses",
-         "thumb":"http://localhost:3000/attachments/866fd16a65b9229c26ca34a3354b1829e1b112e1/store/fit/350/250/652b06c1fc06d4c71a38da8a5a3242372b9ea1722c39443f0ef2cecc2be1/885+V027468+OVH.JPG",
-         "created_at":"2019-10-18T11:42:42.009Z",
+         "thumb":"http://localhost:3000/attachments/7646e7ef915270eeaa0f8af29e500fb0e1ff7cdb/store/fit/350/250/cf78b0e05bd9e37584314c3d8734005cb6ef18c269b3909bcca519e6edfc/1045.JPG",
+         "created_at":"2019-10-18T11:49:02.628Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
          "map_latitude":37.7547751,
          "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/885-1571398962",
+         "url":"/pt/anuncios/1045-1571399342",
          "images":[
             {
                "width":400,
                "height":225,
-               "url":"http://localhost:3000/attachments/ceddca66ef051042ede32a2f6c29fb1bdbe46bf7/store/limit/400/225/652b06c1fc06d4c71a38da8a5a3242372b9ea1722c39443f0ef2cecc2be1/885+V027468+OVH.JPG",
-               "thumb":"http://localhost:3000/attachments/843743b792534801921916c14adaaace76e02abf/store/blur/400/225/652b06c1fc06d4c71a38da8a5a3242372b9ea1722c39443f0ef2cecc2be1/885+V027468+OVH.JPG"
+               "url":"http://localhost:3000/attachments/0c1074877afd88b473530217e6fb64da2cfb1aa2/store/limit/400/225/cf78b0e05bd9e37584314c3d8734005cb6ef18c269b3909bcca519e6edfc/1045.JPG",
+               "thumb":"http://localhost:3000/attachments/bc3caca8acfa22cdca231a1f0f8ac2849c2647e5/store/blur/400/225/cf78b0e05bd9e37584314c3d8734005cb6ef18c269b3909bcca519e6edfc/1045.JPG"
             }
          ],
          "from_petcare":true,
          "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"3d7a7dd0-6776-4e2d-9cbe-01fb12575c10",
-         "name":"Thor desapareceu ",
-         "description":"Tem manchas brancas nas patas e no queixo",
-         "age":"Junior",
-         "gender":"Macho",
-         "locality":"Setúbal, Seixal",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/fd6e847b81bfd7906c70da99a7bf9a3b9bf4598b/store/fit/350/250/fb8ca567e950cfe8280912c767b08f23eeb5bf34c1ab539ff3b10bd88bf3/received_1781083408603110.jpeg",
-         "created_at":"2018-01-01T21:35:20.994Z",
-         "announcement_type":"lost",
-         "announcement_type_translated":"Perdi",
-         "map_latitude":38.6259332,
-         "map_longitude":-9.094966,
-         "url":"/pt/anuncios/thor-desapareceu-1514842520",
-         "images":[
-            {
-               "width":400,
-               "height":300,
-               "url":"http://localhost:3000/attachments/a27b42823ccbc9cc1b866c0c0fff0d535c0aaa4e/store/limit/400/300/fb8ca567e950cfe8280912c767b08f23eeb5bf34c1ab539ff3b10bd88bf3/received_1781083408603110.jpeg",
-               "thumb":"http://localhost:3000/attachments/7bfd5e29fd63805a07d7bd91191113d65e9fc136/store/blur/400/300/fb8ca567e950cfe8280912c767b08f23eeb5bf34c1ab539ff3b10bd88bf3/received_1781083408603110.jpeg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"d7641ca4-2456-45ad-86b5-1e8e508cfbb6",
-         "name":"Ron",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/03d05ec7e724ebcebb0920b59e5123e21e3f7cbd/store/fit/350/250/0558fd6518c94092f47c8b8e55acc062504487ebb029a96840a481e646d4/Ron.jpg",
-         "created_at":"2018-11-21T14:18:32.343Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5962722,
-         "map_longitude":-8.641906699999936,
-         "url":"/pt/anuncios/ron-1542809912",
-         "images":[
-            {
-               "width":400,
-               "height":291,
-               "url":"http://localhost:3000/attachments/72987a1144f30849e8ad360d11ec490f066e6ef5/store/limit/400/291/0558fd6518c94092f47c8b8e55acc062504487ebb029a96840a481e646d4/Ron.jpg",
-               "thumb":"http://localhost:3000/attachments/22f41e95b0fc32513cf43a400a808038a491dbdc/store/blur/400/291/0558fd6518c94092f47c8b8e55acc062504487ebb029a96840a481e646d4/Ron.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"2fbed5df-6fe5-49ab-af8e-f300ad212864",
-         "name":"Para adopção responsável ",
-         "description":"Uma ninhada de 6 caezinhos encontrada em Aveiro. \r\n4 já foram adotados, faltam duas meninas.",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Ílhavo",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/dc1198d98c897a1c6a73f5c99f70a5ff43517a3b/store/fit/350/250/ecb90690b3e297761bbd24a15346b4536d2d5835c2f758d700e83bf05802/cadela.jpg",
-         "created_at":"2018-12-28T21:20:55.585Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.602309,
-         "map_longitude":-8.672370999999998,
-         "url":"/pt/anuncios/para-adopcao-responsavel-1546032055",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/8c233a307d94a36a8810d0da0d745f1b3e5f1727/store/limit/400/533/ecb90690b3e297761bbd24a15346b4536d2d5835c2f758d700e83bf05802/cadela.jpg",
-               "thumb":"http://localhost:3000/attachments/8ea79cb3f74d37d4324e7ad801381c98cf550e5f/store/blur/400/533/ecb90690b3e297761bbd24a15346b4536d2d5835c2f758d700e83bf05802/cadela.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"9c27e856-1fac-488c-b89d-60aa5e5edb8f",
-         "name":"VICE",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/df1ddfa0d9114ad50d8360e23d5b06e30a0263dc/store/fit/350/250/3f6bc9aeabbd9f8057d3e8f5532aab904d0be7acf61ca16ebd2fb7182fc6/DSC_7774+copy.jpg",
-         "created_at":"2020-01-30T10:49:10.834Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/vice-1580381350",
-         "images":[
-            {
-               "width":400,
-               "height":288,
-               "url":"http://localhost:3000/attachments/f5bf91b58bed496bc71441dc2547b275e2049af8/store/limit/400/288/3f6bc9aeabbd9f8057d3e8f5532aab904d0be7acf61ca16ebd2fb7182fc6/DSC_7774+copy.jpg",
-               "thumb":"http://localhost:3000/attachments/7cd35cd7ff0d19f99aeca4aed3a231ad3f6ad5cf/store/blur/400/288/3f6bc9aeabbd9f8057d3e8f5532aab904d0be7acf61ca16ebd2fb7182fc6/DSC_7774+copy.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"6e164762-6931-4067-90b4-d82172688f63",
-         "name":"WOODY",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/3e12bf74a1338b42e755399a730b7ffb4ff0b90e/store/fit/350/250/b5c77320c69b33ccafea07b83def40d163e4e1b5762cb6b6146bf39e5279/IMG_8057.JPG",
-         "created_at":"2020-01-30T10:45:49.837Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/woody-1580381149",
-         "images":[
-            {
-               "width":400,
-               "height":266,
-               "url":"http://localhost:3000/attachments/081687cce80d65249386f1343e3cf398eb6a6bfc/store/limit/400/266/b5c77320c69b33ccafea07b83def40d163e4e1b5762cb6b6146bf39e5279/IMG_8057.JPG",
-               "thumb":"http://localhost:3000/attachments/1fb13675292ce352057508fc6608952ed5a1b409/store/blur/400/266/b5c77320c69b33ccafea07b83def40d163e4e1b5762cb6b6146bf39e5279/IMG_8057.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"1d675ad6-d2d7-4a48-bca3-6cf5f3e85c13",
-         "name":"Labrador Preto Perdido na Maia perto da estação de metro do Parque Maia no dia 15 de Outubro de 2017 ás 19 horas",
-         "description":"Perdido na Maia perto da estação de metro do Parque Maia no dia 15 de Outubro de 2017 ás 19 horas\r\nA senhora Adélia Santos estava a passear este labrador com o nome de flor perto do parque Maia e com os foguetes das festas da Maia ele assustou-se e fugiu, \r\nEstou a colocar este anuncio a pedido dela.\r\nSe o virem ou encontrarem por favor liguem para o 910706728!\r\nObrigado",
-         "age":"Bebé",
-         "gender":"Macho",
-         "locality":"Porto, Maia",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/d1ccf2560986a62fb4fa6865166da62b72647077/store/fit/350/250/e428a7128a874e319405b61eb8a8ac6ad83a6336ad62d455d1ddbc934ed3/20171015_195642064_iOS.jpg",
-         "created_at":"2017-10-15T21:12:32.620Z",
-         "announcement_type":"lost",
-         "announcement_type_translated":"Perdi",
-         "map_latitude":41.2278891,
-         "map_longitude":-8.62104899999997,
-         "url":"/pt/anuncios/labrador-preto-perdido-na-maia-perto-da-estacao-de-metro-do-parque-maia-no-dia-15-de-outubro-de-2017-as-19-horas-1508101952",
-         "images":[
-            {
-               "width":400,
-               "height":300,
-               "url":"http://localhost:3000/attachments/dc7e31500cc293ac7f3945aea1112d6656bc28eb/store/limit/400/300/e428a7128a874e319405b61eb8a8ac6ad83a6336ad62d455d1ddbc934ed3/20171015_195642064_iOS.jpg",
-               "thumb":"http://localhost:3000/attachments/da6eeadf3a94e8fa9a987b65a3d5ef33187a13bb/store/blur/400/300/e428a7128a874e319405b61eb8a8ac6ad83a6336ad62d455d1ddbc934ed3/20171015_195642064_iOS.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"16c3c5ae-8a26-4113-b7fc-1dc85c995dea",
-         "name":"Animal nº 365/2017 para adoção responsável",
-         "description":"Entrou cachorro. Há 1 ano e meio no canil a aguardar adoção. https://www.amtsm.pt/pt/canil-intermunicipal/adoptar/3652017",
-         "age":"Junior",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/0654420b3195669c301ceea46251a79bea74506a/store/fit/350/250/4d92c95c3e4cb392961f8b63e2ad95d1e1ee1dd814045e69d2d345b4eb12/IMG_6678.JPG",
-         "created_at":"2018-10-02T15:00:10.208Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/animal-n-365-2017-para-adocao-responsavel-1538492410",
-         "images":[
-            {
-               "width":400,
-               "height":627,
-               "url":"http://localhost:3000/attachments/2f49f37400867211e2787a05b6b38ea90af7e476/store/limit/400/627/4d92c95c3e4cb392961f8b63e2ad95d1e1ee1dd814045e69d2d345b4eb12/IMG_6678.JPG",
-               "thumb":"http://localhost:3000/attachments/1a1dde50b4960eb2936f2d3667e6ee106bdc41f9/store/blur/400/627/4d92c95c3e4cb392961f8b63e2ad95d1e1ee1dd814045e69d2d345b4eb12/IMG_6678.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"06487011-e3a3-425e-8257-18ebab55a422",
-         "name":"Macho (Porte Médio) ",
-         "description":"Ágil e corredor, este patudo promete ser uma óptima companhia. nº401/2017",
-         "age":"Junior",
-         "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/4e4818669d35b78f00b76f2ed7bfd56c2c6a8485/store/fit/350/250/e045b9af43c233b191fbd1166d45c4c11412a6bae93a267a081d9cef3115/DSC08067.JPG",
-         "created_at":"2017-09-21T15:10:35.976Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/macho-porte-medio-1524488232",
-         "images":[
-            {
-               "width":400,
-               "height":614,
-               "url":"http://localhost:3000/attachments/08c988ea26ff0d2177ddeec3d5b0e42c03a7af31/store/limit/400/614/e045b9af43c233b191fbd1166d45c4c11412a6bae93a267a081d9cef3115/DSC08067.JPG",
-               "thumb":"http://localhost:3000/attachments/e3271ab6bde0ec839eea081014f9ec0f1e435019/store/blur/400/614/e045b9af43c233b191fbd1166d45c4c11412a6bae93a267a081d9cef3115/DSC08067.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"fc6596f0-3592-4399-9a01-4c2f54b3350b",
-         "name":"125",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"9 meses",
-         "thumb":"http://localhost:3000/attachments/218903d75de9f0ca0da3e356478574c97e93e534/store/fit/350/250/5d7e19983e3f2c0b924038f51c577715c8afbc8d67f74e0f723900051a31/10.jpg",
-         "created_at":"2019-07-16T20:40:59.331Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/125-1563309659",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/666bed638359e22fb493255f9197a1b894d51179/store/limit/400/533/5d7e19983e3f2c0b924038f51c577715c8afbc8d67f74e0f723900051a31/10.jpg",
-               "thumb":"http://localhost:3000/attachments/c503d87a73f3da946ea901bcdbbd9b14eccb3757/store/blur/400/533/5d7e19983e3f2c0b924038f51c577715c8afbc8d67f74e0f723900051a31/10.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      },
-      {
-         "id":"e695c867-399c-43ff-8ed0-c41b19535222",
-         "name":"Macho | S.R.D. porte grande",
-         "description":"Bom cão de guarda!",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/f4bf655529d3399e0553adf231e6dc35d83f81ca/store/fit/350/250/196c0d5a8860f4390b0507d9bdc3fa0290b5051b59131e01e85a935edff9/50117235_2250999281599328_6671730347098505216_o.jpg",
-         "created_at":"2019-03-14T16:54:18.834Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-s-r-d-porte-grande-1552582458",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/decf973e668c3dd9f40e8b350dd7c332d777cbd5/store/limit/400/400/196c0d5a8860f4390b0507d9bdc3fa0290b5051b59131e01e85a935edff9/50117235_2250999281599328_6671730347098505216_o.jpg",
-               "thumb":"http://localhost:3000/attachments/7817077df660014de8adea37ba944700b86c67c8/store/blur/400/400/196c0d5a8860f4390b0507d9bdc3fa0290b5051b59131e01e85a935edff9/50117235_2250999281599328_6671730347098505216_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"ad0557cb-0ebb-4265-a063-fa622f1cb615",
-         "name":"Adoção: Branquinha",
-         "description":"CAMPANHA: Adote uma nova Vida!\r\n\r\nAtualmente, estão ao abrigo da Junta da Freguesia de Ermesinde, duas cadelas com idade aproximada de 5 meses, devido à indisponibilidade de espaço no Centro Veterinário Municipal de Valongo.\r\n\r\nCaso esteja interessado, contacte-nos!\r\n\r\nNota: Todos os animais adoptados no âmbito desta campanha encontram-se isentos do pagamento de taxas anuais de licença de canídeos na Freguesia de Ermesinde, bem como a gratuitidade na colocação de Microchip e castração.",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Porto, Valongo",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/f2249b4ca2e74e86ad490581e6b5ac8ea6e88069/store/fit/350/250/dbf9b56f40e0b5895d289da639bd30085e2370cbfd4a8bc8584cdceda5c2/IMG_8610_logo_olx.jpg",
-         "created_at":"2018-03-28T11:30:31.736Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2090826,
-         "map_longitude":-8.544635999999969,
-         "url":"/pt/anuncios/adocao-branquinha-1522237133",
-         "images":[
-            {
-               "width":400,
-               "height":600,
-               "url":"http://localhost:3000/attachments/ffd7f83e43b1baf625ce545976bf1c43db77d146/store/limit/400/600/dbf9b56f40e0b5895d289da639bd30085e2370cbfd4a8bc8584cdceda5c2/IMG_8610_logo_olx.jpg",
-               "thumb":"http://localhost:3000/attachments/b214b4af8a1eb0d28f75128efb93a12f63936f83/store/blur/400/600/dbf9b56f40e0b5895d289da639bd30085e2370cbfd4a8bc8584cdceda5c2/IMG_8610_logo_olx.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"866f422c-bcfa-45c5-ba63-470af16fea9d",
-         "name":"Adoção: Pirolita",
-         "description":"CAMPANHA: Adote uma nova Vida!\r\n\r\nAtualmente, está ao abrigo da Junta da Freguesia de Ermesinde, uma cadela com idade aproximada de 2 anos, devido à indisponibilidade de espaço no Centro Veterinário Municipal de Valongo.\r\n\r\nCaso esteja interessado, contacte-nos!\r\n\r\nNota: Todos os animais adoptados no âmbito desta campanha encontram-se isentos do pagamento de taxas anuais de licença de canídeos na Freguesia de Ermesinde, bem como a gratuitidade na colocação de Microchip e castração no caso das fêmeas.",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Porto, Valongo",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/35b837effe6e90753e23d81ab9afd01c34171a7d/store/fit/350/250/6e5d7abc25c9332fb24d93e5e35205be9a53bb79157eadf8883269741571/DSC_0192_.jpg",
-         "created_at":"2018-03-28T11:37:17.563Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2090826,
-         "map_longitude":-8.544635999999969,
-         "url":"/pt/anuncios/adocao-pirolita-1522237155",
-         "images":[
-            {
-               "width":400,
-               "height":599,
-               "url":"http://localhost:3000/attachments/805367fdaaa35b380cde393183914085b6ef3d53/store/limit/400/599/6e5d7abc25c9332fb24d93e5e35205be9a53bb79157eadf8883269741571/DSC_0192_.jpg",
-               "thumb":"http://localhost:3000/attachments/35cba1e1c56d42706cd058127affa6975069beab/store/blur/400/599/6e5d7abc25c9332fb24d93e5e35205be9a53bb79157eadf8883269741571/DSC_0192_.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"11a9fc4b-fca8-4be9-9859-bdc8cb56599a",
-         "name":"Fêmea porte médio ",
-         "description":"Fêmea de porte médio muito meiga e bricalhona",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Águeda",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/cfdb80fcf61460abd8d9383ba81d5d8bd31c2abd/store/fit/350/250/16339c20c8ad85d0bbde68daae18ade559eeeca9659baf8b231a6759f62f/received_2189436521073262.jpeg",
-         "created_at":"2018-06-16T17:08:50.757Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.5832966,
-         "map_longitude":-8.503123899999991,
-         "url":"/pt/anuncios/femea-porte-medio-1529168930",
-         "images":[
-            {
-               "width":400,
-               "height":300,
-               "url":"http://localhost:3000/attachments/7274a20b6c72a82212f8beef828cd593369f2745/store/limit/400/300/16339c20c8ad85d0bbde68daae18ade559eeeca9659baf8b231a6759f62f/received_2189436521073262.jpeg",
-               "thumb":"http://localhost:3000/attachments/9b482fc5340495c3867b8798891b36a1700c63c3/store/blur/400/300/16339c20c8ad85d0bbde68daae18ade559eeeca9659baf8b231a6759f62f/received_2189436521073262.jpeg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"87053fdc-5c74-4fb8-b170-066857bcd1fa",
-         "name":"Dar cadela",
-         "description":"",
-         "age":"Junior",
-         "gender":"Fêmea",
-         "locality":"Castelo Branco, Covilhã",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/550087e91c358bd57fa4750fb8fc0bcd8669f5ec/store/fit/350/250/ebc967aaa7528321fc8928422475fba6af219c2549ebca1dd2154b462143/FB_IMG_1513210986374.jpg",
-         "created_at":"2017-12-14T00:26:30.160Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.2807351,
-         "map_longitude":-7.488527699999963,
-         "url":"/pt/anuncios/dar-cadela-1513211190",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/93a5530818fcff63b7dd58c06046876fd030addc/store/limit/400/533/ebc967aaa7528321fc8928422475fba6af219c2549ebca1dd2154b462143/FB_IMG_1513210986374.jpg",
-               "thumb":"http://localhost:3000/attachments/4bf32d694074b4650a3b4354804b68c6723150fa/store/blur/400/533/ebc967aaa7528321fc8928422475fba6af219c2549ebca1dd2154b462143/FB_IMG_1513210986374.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"922ac685-56a3-4929-8da5-5445f7f4e37d",
-         "name":"Encontrado em valongo",
-         "description":"Porte médio, pelo meio longo obdece a ordens.",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Porto, Valongo",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/865e1fcd16ba355ce9e1bdfbf8d05250e5d8db70/store/fit/350/250/e00d77ad69208c197f1fb268a4a1704bdac5741ed35bef771416927e03ca/IMG_20180206_211623.jpg",
-         "created_at":"2018-02-06T21:35:45.403Z",
-         "announcement_type":"found",
-         "announcement_type_translated":"Encontrei",
-         "map_latitude":41.188745,
-         "map_longitude":-8.498341100000061,
-         "url":"/pt/anuncios/encontrado-em-valongo-1517952945",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/21a22af88c05fee4f7a12de6dab6f36d551c0d0d/store/limit/400/533/e00d77ad69208c197f1fb268a4a1704bdac5741ed35bef771416927e03ca/IMG_20180206_211623.jpg",
-               "thumb":"http://localhost:3000/attachments/9f0758e079279a18546076914aef3bbf09a20a41/store/blur/400/533/e00d77ad69208c197f1fb268a4a1704bdac5741ed35bef771416927e03ca/IMG_20180206_211623.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
       },
       {
          "id":"bbbb8a27-1bd1-4420-9efa-c1f3fa7db53c",
@@ -2365,139 +316,58 @@
          "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
       },
       {
-         "id":"78118525-fe14-495a-bee8-4b08f624711e",
-         "name":"Milka",
-         "description":"A Milka é uma cadelinha nascida em janeiro de 2018.Será de porte médio/grande. É meiga e brincalhona.Quem se apaixona pela Milka?",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Ílhavo",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/4ca8fed015aa195b9548c3bd31c51721b09435f1/store/fit/350/250/7f08a68cde58617dd873d32bcac53cc52732e1b3e11830979ce337055c23/FullSizeRender_13.jpg",
-         "created_at":"2018-04-19T08:30:38.152Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.6079103,
-         "map_longitude":-8.684932600000025,
-         "url":"/pt/anuncios/milka-1524126638",
-         "images":[
-            {
-               "width":400,
-               "height":579,
-               "url":"http://localhost:3000/attachments/48b63e9cca25dfb6ab38a304cf30ffc64861a921/store/limit/400/579/7f08a68cde58617dd873d32bcac53cc52732e1b3e11830979ce337055c23/FullSizeRender_13.jpg",
-               "thumb":"http://localhost:3000/attachments/b16d43670812d7f6ffbc38a94fb18a349d5e663f/store/blur/400/579/7f08a68cde58617dd873d32bcac53cc52732e1b3e11830979ce337055c23/FullSizeRender_13.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Croaci"
-      },
-      {
-         "id":"c9073d62-5a51-4bb6-87c1-6e75c6d90148",
-         "name":"Para adopção responsável ",
-         "description":"Uma ninhada de 6 caezinhos encontrada em Aveiro.\r\n4 já foram adotados, faltam 2 meninas",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Ílhavo",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/cb5770053301bab39ed27319008ab4c92b6965ed/store/fit/350/250/fedc011eb7a864f56466ef54c9588b923729fb9ffefa8b4f64c6f85b92e4/cadela1.jpg",
-         "created_at":"2018-12-28T21:25:10.766Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.602309,
-         "map_longitude":-8.672370999999998,
-         "url":"/pt/anuncios/para-adopcao-responsavel-1546032310",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"http://localhost:3000/attachments/f82463621aa57bb72d9fb55733aa882220ef6f78/store/limit/400/533/fedc011eb7a864f56466ef54c9588b923729fb9ffefa8b4f64c6f85b92e4/cadela1.jpg",
-               "thumb":"http://localhost:3000/attachments/0819507e38a2a76f7c7eee87edab7336de1ec63a/store/blur/400/533/fedc011eb7a864f56466ef54c9588b923729fb9ffefa8b4f64c6f85b92e4/cadela1.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"b15419c0-725f-4805-9db5-f6c518a821a0",
-         "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Muito dócil e brincalhona!",
-         "age":"Bebé",
-         "gender":"Fêmea",
+         "id":"b8fbf1f6-099b-44b4-97b5-f260725e920a",
+         "name":"Macho (porte pequeno)",
+         "description":"Macho Adulto muito brincalhão.",
+         "age":"Adulto",
+         "gender":"Macho",
          "locality":"Bragança, Mirandela",
          "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/93c94a2503dbe2eb5150fe7fb7016d33b675dd6f/store/fit/350/250/d481a3a3c1259ebf79c716235fd7bef812c2b1eadcc6e06a489ac922d50c/54393290_2336488819717040_6011654187929042944_o.jpg",
-         "created_at":"2019-03-28T11:23:20.075Z",
+         "short_date":"mais de 1 ano",
+         "thumb":"http://localhost:3000/attachments/ba681deab0769e604cb1df4f738501e17b44ad70/store/fit/350/250/b359e58137b0267c20f7553d322b97b07d68aef7b2ca9e6cba8b8123d7cc/37328904_1980566905309235_932812427915952128_o.jpg",
+         "created_at":"2018-11-05T14:42:14.829Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
          "map_latitude":41.374074,
          "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1553772200",
+         "url":"/pt/anuncios/macho-porte-pequeno-1541428934",
          "images":[
             {
                "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/715076e345d5674c0913920f32ababe9f20aeed4/store/limit/400/400/d481a3a3c1259ebf79c716235fd7bef812c2b1eadcc6e06a489ac922d50c/54393290_2336488819717040_6011654187929042944_o.jpg",
-               "thumb":"http://localhost:3000/attachments/a72532ee9ccb0d8c6f82feaebf1f2cd10cb5c948/store/blur/400/400/d481a3a3c1259ebf79c716235fd7bef812c2b1eadcc6e06a489ac922d50c/54393290_2336488819717040_6011654187929042944_o.jpg"
+               "height":611,
+               "url":"http://localhost:3000/attachments/c067dd69ec6e186ed27b3ed1a4b065a71dba917d/store/limit/400/611/b359e58137b0267c20f7553d322b97b07d68aef7b2ca9e6cba8b8123d7cc/37328904_1980566905309235_932812427915952128_o.jpg",
+               "thumb":"http://localhost:3000/attachments/204266e8d787573cabfa2bc6e0b82693b096fc67/store/blur/400/611/b359e58137b0267c20f7553d322b97b07d68aef7b2ca9e6cba8b8123d7cc/37328904_1980566905309235_932812427915952128_o.jpg"
             }
          ],
          "from_petcare":true,
          "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
       },
       {
-         "id":"be28331b-e8bd-47bd-9d63-c648933f96c9",
-         "name":"Procuro um novo dono para dar umas lambiscadelas e uns arranhões ",
-         "description":"",
-         "age":"Bebé",
-         "gender":"Macho",
-         "locality":"Aveiro, Águeda",
-         "favorite_count":0,
-         "short_date":"quase 2 anos",
-         "thumb":"http://localhost:3000/attachments/261ec87cc7628835dc5d50d27711300c44c3de08/store/fit/350/250/47a8a54c68f1b561598c13cf3a701586ba236abbc71c560465a47194031b/_DSC1678_Fb.png",
-         "created_at":"2018-06-18T14:54:18.023Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.5754246,
-         "map_longitude":-8.446436800000015,
-         "url":"/pt/anuncios/procuro-um-novo-dono-para-dar-umas-lambiscadelas-e-uns-arranhoes-1529333658",
-         "images":[
-            {
-               "width":400,
-               "height":233,
-               "url":"http://localhost:3000/attachments/b05e6f8be358e81fb07d240f878623b299a90328/store/limit/400/233/47a8a54c68f1b561598c13cf3a701586ba236abbc71c560465a47194031b/_DSC1678_Fb.png",
-               "thumb":"http://localhost:3000/attachments/7d0bb4ea5d9babe3640c5289e555891113788740/store/blur/400/233/47a8a54c68f1b561598c13cf3a701586ba236abbc71c560465a47194031b/_DSC1678_Fb.png"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"25b1ce1e-0863-4be8-84d3-361134dfefaf",
-         "name":"BANZÉ",
+         "id":"c49fcf61-d87d-4377-85aa-595af892dcc8",
+         "name":"Salto",
          "description":"",
          "age":"Adulto",
          "gender":"Macho",
-         "locality":"Braga, Guimarães",
+         "locality":"Beja, Odemira",
          "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/8aa0eb61c31c0b50b414c889e63689a49d309680/store/fit/350/250/a521e8b78c09975cbeee5d56742e718705819083c6145d5647c53ae97247/2.jpg",
-         "created_at":"2020-01-30T10:51:28.568Z",
+         "short_date":"12 meses",
+         "thumb":"http://localhost:3000/attachments/725fdd6f861ce3297b818e391fb99f59ada250a5/store/fit/350/250/83b661b1c6b2038733fcd573b241a1744b9dc2a786a14f3e5a07626afadd/Salto.jpg",
+         "created_at":"2019-04-24T15:27:53.879Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/banze-1580381488",
+         "map_latitude":37.5965196,
+         "map_longitude":-8.64185729999997,
+         "url":"/pt/anuncios/salto-1556119673",
          "images":[
             {
                "width":400,
-               "height":285,
-               "url":"http://localhost:3000/attachments/1f2ee126b803251fb04109ef1526e05524dc3515/store/limit/400/285/a521e8b78c09975cbeee5d56742e718705819083c6145d5647c53ae97247/2.jpg",
-               "thumb":"http://localhost:3000/attachments/88603f5a5ecf2b763e9ef2dddfe1626ce5c7ff2e/store/blur/400/285/a521e8b78c09975cbeee5d56742e718705819083c6145d5647c53ae97247/2.jpg"
+               "height":565,
+               "url":"http://localhost:3000/attachments/4b74d030fd5509bc8681c062fff780bb7efa0b76/store/limit/400/565/83b661b1c6b2038733fcd573b241a1744b9dc2a786a14f3e5a07626afadd/Salto.jpg",
+               "thumb":"http://localhost:3000/attachments/8a4b76859049bf7fd28b69e221edaa26a63dd2f1/store/blur/400/565/83b661b1c6b2038733fcd573b241a1744b9dc2a786a14f3e5a07626afadd/Salto.jpg"
             }
          ],
          "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
+         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
       },
       {
          "id":"3082c9ef-4d7c-4449-a3a0-f681270702eb",
@@ -2527,463 +397,31 @@
          "account_name":null
       },
       {
-         "id":"e8a5c971-4e45-4c58-a8f6-9f35a3865312",
+         "id":"a3cd3094-b20f-44fa-a7a9-6697d3114a91",
          "name":"Macho | S.R.D. porte médio",
-         "description":"Muito meiguinho! ",
-         "age":"Bebé",
+         "description":"Muito brincalhão... ",
+         "age":"Adulto",
          "gender":"Macho",
          "locality":"Bragança, Mirandela",
          "favorite_count":0,
          "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/e9add8b188734d05339b747b664d8ed8f7d5060c/store/fit/350/250/157c9038245b6ff14fe6f658d9ea26afe6cb658615a0f5fe718f24feb65b/51561958_2285770831455506_6822590493549920256_o.jpg",
-         "created_at":"2019-03-15T11:24:04.306Z",
+         "thumb":"http://localhost:3000/attachments/fe66a30a18d99187c32c8ab67e3609ebec832f17/store/fit/350/250/ffa630b2d67b5ac3343e947ae44936c951ebbaca2cc71bcba8df558ac9d2/53082569_2323032821062640_781645504835485696_o.jpg",
+         "created_at":"2019-03-15T11:31:39.927Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
          "map_latitude":41.374074,
          "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-s-r-d-porte-medio-1552649044",
+         "url":"/pt/anuncios/macho-s-r-d-porte-medio-1552649499",
          "images":[
             {
                "width":400,
                "height":400,
-               "url":"http://localhost:3000/attachments/dc9b734f9afb37c22dfbcf7d69f45bab4a1e5ab7/store/limit/400/400/157c9038245b6ff14fe6f658d9ea26afe6cb658615a0f5fe718f24feb65b/51561958_2285770831455506_6822590493549920256_o.jpg",
-               "thumb":"http://localhost:3000/attachments/145de347b8f2e42992fcbadfa7b375f2e2e70fd4/store/blur/400/400/157c9038245b6ff14fe6f658d9ea26afe6cb658615a0f5fe718f24feb65b/51561958_2285770831455506_6822590493549920256_o.jpg"
+               "url":"http://localhost:3000/attachments/c24d9c425f8a6de398383a7ec95373c19ca668d1/store/limit/400/400/ffa630b2d67b5ac3343e947ae44936c951ebbaca2cc71bcba8df558ac9d2/53082569_2323032821062640_781645504835485696_o.jpg",
+               "thumb":"http://localhost:3000/attachments/de9f3464f00d25b02564a355d38a565223d06e8d/store/blur/400/400/ffa630b2d67b5ac3343e947ae44936c951ebbaca2cc71bcba8df558ac9d2/53082569_2323032821062640_781645504835485696_o.jpg"
             }
          ],
          "from_petcare":true,
          "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"bb22ebd9-db4b-412d-95fd-212a4891242b",
-         "name":"Cadela Bebe Para Adoção",
-         "description":"",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Porto, Penafiel",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/bd29a816ec3d3858788ccc0f1eef7ddccb9d5abd/store/fit/350/250/623c5e81e259c8be2d5373cf2c99ff0f8bd7070c4eb44ad25c9a1fc84821/20181114_155802.jpg",
-         "created_at":"2018-11-14T17:39:38.848Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2053186,
-         "map_longitude":-8.289684500000021,
-         "url":"/pt/anuncios/cadela-bebe-para-adocao-1542217178",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/1eb9160f1145c6904db0d0ba836da457d53c428b/store/limit/400/225/623c5e81e259c8be2d5373cf2c99ff0f8bd7070c4eb44ad25c9a1fc84821/20181114_155802.jpg",
-               "thumb":"http://localhost:3000/attachments/fc061e04be55efd94953f66e3edaf297ac2d445d/store/blur/400/225/623c5e81e259c8be2d5373cf2c99ff0f8bd7070c4eb44ad25c9a1fc84821/20181114_155802.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"f345b14a-8622-4653-9660-4aa473b51420",
-         "name":"1008 (2)",
-         "description":"MACHO DE PORTE PEQUENO DÓCIL COM CERCA DE 3 ANOS",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"5 meses",
-         "thumb":"http://localhost:3000/attachments/1883b9e1400e5ce494265a7b0f6c57b77b178570/store/fit/350/250/28c347aafd3be8c3a0db405dc00f3199ae9439e23cf749d433a06ac58c2e/1008+2.JPG",
-         "created_at":"2019-12-04T13:28:01.732Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/1008-2-1575466081",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/fbacf4783085bd2a259d3ccaeffc230812d722a1/store/limit/400/225/28c347aafd3be8c3a0db405dc00f3199ae9439e23cf749d433a06ac58c2e/1008+2.JPG",
-               "thumb":"http://localhost:3000/attachments/c8864cd45f341008e5a95e75e306e7ba0a6eba46/store/blur/400/225/28c347aafd3be8c3a0db405dc00f3199ae9439e23cf749d433a06ac58c2e/1008+2.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"4919b2c9-6b54-4995-beac-272f943ff243",
-         "name":"Becas",
-         "description":"O Becas é um cãzinho adulto, de porte médio.É meigo e sociável com outros cães.Quem se apaixona pelo Becas?",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Aveiro, Ílhavo",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/dd3780c289baa04f149ba96c7e18b1993817a6a2/store/fit/350/250/15d244e193ebf804192655249db156580c466670d36ecaf62bfa9ce5507f/FullSizeRender_4.jpg",
-         "created_at":"2018-04-19T08:40:48.004Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.6079103,
-         "map_longitude":-8.684932600000025,
-         "url":"/pt/anuncios/becas-1524127247",
-         "images":[
-            {
-               "width":400,
-               "height":610,
-               "url":"http://localhost:3000/attachments/070be8cf3647b0f8d90f2397510e367b7fdbf7f6/store/limit/400/610/15d244e193ebf804192655249db156580c466670d36ecaf62bfa9ce5507f/FullSizeRender_4.jpg",
-               "thumb":"http://localhost:3000/attachments/1c5a40d4695b477b3dfee0eac82b101c88aac960/store/blur/400/610/15d244e193ebf804192655249db156580c466670d36ecaf62bfa9ce5507f/FullSizeRender_4.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Croaci"
-      },
-      {
-         "id":"50fb4f84-9995-405c-9ec6-6665c54b61fc",
-         "name":"Fêmea S.R.D. Porte médio. ",
-         "description":"Cachorrinha muito fofinha...",
-         "age":"Junior",
-         "gender":"Fêmea",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"acerca de 1 ano",
-         "thumb":"http://localhost:3000/attachments/05a029a8a8e5cef6f723d920a75095eddde18e55/store/fit/350/250/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
-         "created_at":"2019-03-15T10:59:29.400Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/femea-s-r-d-porte-medio-1552647569",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/d56d98a6ab9ca2ab5fb63c1760447472ea4c99e6/store/limit/400/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
-               "thumb":"http://localhost:3000/attachments/c36e161e679205ad483e85befe2b1d7eab0ab171/store/blur/400/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"84aa2ff5-7b82-4e96-afe6-0ae0a8884668",
-         "name":"Macho | porte médio / pequeno.",
-         "description":"Muito dócil e sossegado!!",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"7 meses",
-         "thumb":"http://localhost:3000/attachments/9de05c1a6ca755fceac6b120ab97e7b7db9fe314/store/fit/350/250/5d2d086b46461027d64649e189dc7de647adda7dae4ac5117160f3205d1f/72320162_2706533996045852_1944647254736371712_o.jpg",
-         "created_at":"2019-10-09T15:01:15.527Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-porte-medio-pequeno-1570633275",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/42ece20d237140d473f0df9c88d357d025b484e3/store/limit/400/400/5d2d086b46461027d64649e189dc7de647adda7dae4ac5117160f3205d1f/72320162_2706533996045852_1944647254736371712_o.jpg",
-               "thumb":"http://localhost:3000/attachments/74c15a864b68ddea985c4d088817678dfdf4468c/store/blur/400/400/5d2d086b46461027d64649e189dc7de647adda7dae4ac5117160f3205d1f/72320162_2706533996045852_1944647254736371712_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"74d42da7-f9c6-427b-9180-33a0995068e8",
-         "name":"1062",
-         "description":"Macho adulto, com cerca de ano e meio, porte pequeno, dócil",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"3 meses",
-         "thumb":"http://localhost:3000/attachments/be4a093efb0213b529135b6b704338ea80a5664a/store/fit/350/250/9905a9dd146196ae8a8b960381a3fbf0d364359f82ccffd005b5c1aab0e3/1062.JPG",
-         "created_at":"2020-01-09T12:21:30.205Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/1062-1578572490",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/384292922826a838972d38397b97c13f116d7ec8/store/limit/400/225/9905a9dd146196ae8a8b960381a3fbf0d364359f82ccffd005b5c1aab0e3/1062.JPG",
-               "thumb":"http://localhost:3000/attachments/fbef528eb74130ee445bc94dfddc08198dc5a700/store/blur/400/225/9905a9dd146196ae8a8b960381a3fbf0d364359f82ccffd005b5c1aab0e3/1062.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"7e32d8bf-9521-49e2-ab74-30e70fead309",
-         "name":"Blush",
-         "description":"A Blush é uma cachorrinha nascida em janeiro de 2018.Será de porte médio/grande. É meiga e brincalhona.Quem se apaixona pela Blush?",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Aveiro, Ílhavo",
-         "favorite_count":0,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/216c41fe9f85ef7578897eb6be047e2531caf6ea/store/fit/350/250/1c82f62994f0da098e5a958d041ed21382719b8062f4fd340deef714de7e/FullSizeRender_12.jpg",
-         "created_at":"2018-04-19T08:32:38.365Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.6079103,
-         "map_longitude":-8.684932600000025,
-         "url":"/pt/anuncios/blush-1524126758",
-         "images":[
-            {
-               "width":400,
-               "height":781,
-               "url":"http://localhost:3000/attachments/0c8eb739858de891a49b2411120b5a84f53db972/store/limit/400/781/1c82f62994f0da098e5a958d041ed21382719b8062f4fd340deef714de7e/FullSizeRender_12.jpg",
-               "thumb":"http://localhost:3000/attachments/bed8bbcf2a9e40900c99d2ce867e9c5683aa9675/store/blur/400/781/1c82f62994f0da098e5a958d041ed21382719b8062f4fd340deef714de7e/FullSizeRender_12.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Croaci"
-      },
-      {
-         "id":"fced51a6-a976-42c7-b099-d9c4c7c1d94e",
-         "name":"1009",
-         "description":"Fêmea adulta, dócil e brincalhona",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Açores, Lagoa",
-         "favorite_count":0,
-         "short_date":"8 meses",
-         "thumb":"http://localhost:3000/attachments/4813dd8c763cbc038ab51e7db00d472067baac65/store/fit/350/250/afccf524b0b345b771581c26f54a8f13746e04723b63ef2ead55cc4cf982/1009.JPG",
-         "created_at":"2019-09-10T10:52:30.852Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.7547751,
-         "map_longitude":-25.57603389999997,
-         "url":"/pt/anuncios/1009-1568112750",
-         "images":[
-            {
-               "width":400,
-               "height":225,
-               "url":"http://localhost:3000/attachments/4e4ac88834dc5c42d0bf10f90223ea71a111c228/store/limit/400/225/afccf524b0b345b771581c26f54a8f13746e04723b63ef2ead55cc4cf982/1009.JPG",
-               "thumb":"http://localhost:3000/attachments/29f29886cf5b4460f01bf3769b8b00723288bd35/store/blur/400/225/afccf524b0b345b771581c26f54a8f13746e04723b63ef2ead55cc4cf982/1009.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"CRO Lagoa Açores"
-      },
-      {
-         "id":"6fb82a5e-5879-4a17-9c2e-8f11eaf59f9c",
-         "name":"Buceto",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/b7e1189e844a44baf714bdf2bcb0c24b3735c30a/store/fit/350/250/bdd66663b9170c4e9c1ceddbb13671540ab76ddc2d6b9f89bbdaef7e42da/Buceto.jpg",
-         "created_at":"2018-11-21T09:42:31.835Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5970385,
-         "map_longitude":-8.640109499999994,
-         "url":"/pt/anuncios/buceto-1542793351",
-         "images":[
-            {
-               "width":400,
-               "height":315,
-               "url":"http://localhost:3000/attachments/5350b3089097285c01723f46eec423ffb0d9906a/store/limit/400/315/bdd66663b9170c4e9c1ceddbb13671540ab76ddc2d6b9f89bbdaef7e42da/Buceto.jpg",
-               "thumb":"http://localhost:3000/attachments/766da7cbd3494d65d426ec0a51d66467b6949512/store/blur/400/315/bdd66663b9170c4e9c1ceddbb13671540ab76ddc2d6b9f89bbdaef7e42da/Buceto.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"d2527a10-28b9-487d-9c00-544dd12cb8a4",
-         "name":"Martinha",
-         "description":"",
-         "age":"Sénior",
-         "gender":"Fêmea",
-         "locality":"Porto, Matosinhos",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/624a2ecead312ce1d1428ef72989b646174aad20/store/fit/350/250/a83a4fd155d22944088b9d4d063feecb3e7245b486e64fb0d077a65ac6f4/Martinha.jpg",
-         "created_at":"2018-07-27T14:27:47.751Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2181262,
-         "map_longitude":-8.657933100000037,
-         "url":"/pt/anuncios/martinha-1532701667",
-         "images":[
-            {
-               "width":400,
-               "height":309,
-               "url":"http://localhost:3000/attachments/11b936bd4461f46f50e36e93d4a8adc23e8223c6/store/limit/400/309/a83a4fd155d22944088b9d4d063feecb3e7245b486e64fb0d077a65ac6f4/Martinha.jpg",
-               "thumb":"http://localhost:3000/attachments/4616b5be3736455944171851655ee6d6a15932a3/store/blur/400/309/a83a4fd155d22944088b9d4d063feecb3e7245b486e64fb0d077a65ac6f4/Martinha.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Associação Midas"
-      },
-      {
-         "id":"b8fbf1f6-099b-44b4-97b5-f260725e920a",
-         "name":"Macho (porte pequeno)",
-         "description":"Macho Adulto muito brincalhão.",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Bragança, Mirandela",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/ba681deab0769e604cb1df4f738501e17b44ad70/store/fit/350/250/b359e58137b0267c20f7553d322b97b07d68aef7b2ca9e6cba8b8123d7cc/37328904_1980566905309235_932812427915952128_o.jpg",
-         "created_at":"2018-11-05T14:42:14.829Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.374074,
-         "map_longitude":-7.142708999999968,
-         "url":"/pt/anuncios/macho-porte-pequeno-1541428934",
-         "images":[
-            {
-               "width":400,
-               "height":611,
-               "url":"http://localhost:3000/attachments/c067dd69ec6e186ed27b3ed1a4b065a71dba917d/store/limit/400/611/b359e58137b0267c20f7553d322b97b07d68aef7b2ca9e6cba8b8123d7cc/37328904_1980566905309235_932812427915952128_o.jpg",
-               "thumb":"http://localhost:3000/attachments/204266e8d787573cabfa2bc6e0b82693b096fc67/store/blur/400/611/b359e58137b0267c20f7553d322b97b07d68aef7b2ca9e6cba8b8123d7cc/37328904_1980566905309235_932812427915952128_o.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Centro de Recolha Oficial da Terra Quente Transmontana"
-      },
-      {
-         "id":"fa1e58a2-aba4-4838-a72e-0953583b0391",
-         "name":"Adoção: Pretinha",
-         "description":"CAMPANHA: Adote uma nova Vida!\r\n\r\nAtualmente, estão ao abrigo da Junta da Freguesia de Ermesinde, duas cadelas com idade aproximada de 5 meses, devido à indisponibilidade de espaço no Centro Veterinário Municipal de Valongo.\r\n\r\nCaso esteja interessado, contacte-nos!\r\n\r\nNota: Todos os animais adoptados no âmbito desta campanha encontram-se isentos do pagamento de taxas anuais de licença de canídeos na Freguesia de Ermesinde, bem como a gratuitidade na colocação de Microchip e castração.",
-         "age":"Bebé",
-         "gender":"Fêmea",
-         "locality":"Porto, Valongo",
-         "favorite_count":1,
-         "short_date":"acerca de 2 anos",
-         "thumb":"http://localhost:3000/attachments/a2f5e22839c3ebb56382fb23236b0c7d4abd7af0/store/fit/350/250/dff1fbe8e945cca33972ba1a16ef9a214fea0377f16449929755424dfd7a/IMG_8600_logo_olx.jpg",
-         "created_at":"2018-03-28T11:28:36.236Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.2090826,
-         "map_longitude":-8.544635999999969,
-         "url":"/pt/anuncios/adocao-pretinha-1522236516",
-         "images":[
-            {
-               "width":400,
-               "height":600,
-               "url":"http://localhost:3000/attachments/1fbd01446c9872b042ae5212b9d519eec731dedf/store/limit/400/600/dff1fbe8e945cca33972ba1a16ef9a214fea0377f16449929755424dfd7a/IMG_8600_logo_olx.jpg",
-               "thumb":"http://localhost:3000/attachments/673ace5dc11ff5622d1756fe84f47f8978356725/store/blur/400/600/dff1fbe8e945cca33972ba1a16ef9a214fea0377f16449929755424dfd7a/IMG_8600_logo_olx.jpg"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
-      },
-      {
-         "id":"a70e9e35-5271-46cf-b85c-9217483ad5b8",
-         "name":"Perdigueiro Português",
-         "description":"Cão de raça Perdigueiro Português, adulto, para adoção. Deu entrada no canil em estado caquético, mas rapidamente recuperou a sua boa forma e assim se apresenta ele: lindo! nº353/2017",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Aveiro, Oliveira de Azeméis",
-         "favorite_count":3,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/6e4caef3a8bd0f34f6eefe445526ee2cf9497692/store/fit/350/250/97ea6497a9b26d94c27bd6a1f0a5ceb5bbc65740918afa3ecdfe78cc1f73/DSC08039.JPG",
-         "created_at":"2017-09-19T13:35:35.840Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":40.8594847,
-         "map_longitude":-8.427048499999955,
-         "url":"/pt/anuncios/perdigueiro-portugues-1524488301",
-         "images":[
-            {
-               "width":400,
-               "height":300,
-               "url":"http://localhost:3000/attachments/309935cc48363dc33534aa53bd0c46816393c8be/store/limit/400/300/97ea6497a9b26d94c27bd6a1f0a5ceb5bbc65740918afa3ecdfe78cc1f73/DSC08039.JPG",
-               "thumb":"http://localhost:3000/attachments/93e8f2e161ccf8c919dc2b04d3ed9b622cd69a63/store/blur/400/300/97ea6497a9b26d94c27bd6a1f0a5ceb5bbc65740918afa3ecdfe78cc1f73/DSC08039.JPG"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-      },
-      {
-         "id":"318b0dbe-c1d9-4e89-afa1-6a8129adbf52",
-         "name":"Rafa",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"6 meses",
-         "thumb":"http://localhost:3000/attachments/211e52057cb871ebf4dd4d48fe95fb859de89703/store/fit/350/250/cc9ecda194810dab52d45d53f14352c3ac41b5ce0c622de515fed0316e0f/Rafa.jpg",
-         "created_at":"2019-10-21T10:04:59.709Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5965196,
-         "map_longitude":-8.64185729999997,
-         "url":"/pt/anuncios/rafa-1571652299",
-         "images":[
-            {
-               "width":400,
-               "height":400,
-               "url":"http://localhost:3000/attachments/a424accaea31ce75094e6791a1f31be2b4d59327/store/limit/400/400/cc9ecda194810dab52d45d53f14352c3ac41b5ce0c622de515fed0316e0f/Rafa.jpg",
-               "thumb":"http://localhost:3000/attachments/65370f98daff3acd7d594b85ebfe918d2866b0ac/store/blur/400/400/cc9ecda194810dab52d45d53f14352c3ac41b5ce0c622de515fed0316e0f/Rafa.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"f19d0d18-4d2d-45c5-b491-e39ee771ae45",
-         "name":"Felix",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Beja, Odemira",
-         "favorite_count":0,
-         "short_date":"mais de 1 ano",
-         "thumb":"http://localhost:3000/attachments/2322418bfa0f065b3f16fea018c435cc53dcc7e0/store/fit/350/250/4863c044bfd0e50b5f0ce5e192fa39d0c2e6ac5468aced0a547a7adf7c44/Felix+2.jpg",
-         "created_at":"2018-11-21T09:53:27.218Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":37.5962722,
-         "map_longitude":-8.641906699999936,
-         "url":"/pt/anuncios/felix-1542794007",
-         "images":[
-            {
-               "width":400,
-               "height":267,
-               "url":"http://localhost:3000/attachments/164aa8b02f71d163080e6ca589504f4457570f95/store/limit/400/267/4863c044bfd0e50b5f0ce5e192fa39d0c2e6ac5468aced0a547a7adf7c44/Felix+2.jpg",
-               "thumb":"http://localhost:3000/attachments/c02d822620a9df304465486ab79816f02b312472/store/blur/400/267/4863c044bfd0e50b5f0ce5e192fa39d0c2e6ac5468aced0a547a7adf7c44/Felix+2.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Serviço Veterinário de Câmara Municipal de Odemira"
-      },
-      {
-         "id":"5dcdc07f-1832-411e-b0da-4c66f1622263",
-         "name":"ADOÇÃO RESPONSÁVEL ",
-         "description":"Os donos deste cão estão desesperados para encontrar  um novo dono para ele,vivem num apartamento e estão a ter problemas com os vizinhos.\r\nÉ um cão que precisa de espaço exterior porque é muito energético, é dosil e saudável. \r\nOs donos encarregam se de acompanhá lo de perto e oferecem ração. \r\nEle chama se \"F\" tem 3anos e a raça é pitbull com pastor alemão. Número para o qual podem contatar é 912779729 ( Soraia Pinto) mensagem. ",
-         "age":"Adulto",
-         "gender":"Macho",
-         "locality":"Porto, Porto",
-         "favorite_count":0,
-         "short_date":"mais de 2 anos",
-         "thumb":"http://localhost:3000/attachments/cf827e82d638041fe9522a0869bfab5f88346391/store/fit/350/250/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG",
-         "created_at":"2017-11-29T00:31:20.209Z",
-         "announcement_type":"adoption",
-         "announcement_type_translated":"Para adoção",
-         "map_latitude":41.14377160000001,
-         "map_longitude":-8.607642499999997,
-         "url":"/pt/anuncios/adocao-responsavel-1511915480",
-         "images":[
-            {
-               "width":400,
-               "height":328,
-               "url":"http://localhost:3000/attachments/208f824fe68219a149faea7a9a18b1ff0f57d896/store/limit/400/328/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG",
-               "thumb":"http://localhost:3000/attachments/ccb8a0eae6c1b2b83f099260e516917e5f99787e/store/blur/400/328/71436bc5d9ca46bdc19ffa2ec4fc5fe87888555236d89bd5bebe2003ddd0/IMG_0541.JPG"
-            }
-         ],
-         "from_petcare":false,
-         "account_name":null
       }
    ]
 }
