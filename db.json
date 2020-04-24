@@ -1,8 +1,4 @@
 {
-  
-  "current_page": 1,
-  "page_info": "A mostrar Anúncios 1 - 15 de 108 no total",
-  "total_pages": 8,
   "announcements": [
     {
       "id": "22e4b1e9-e6a3-4095-ad48-6145e9f25084",
@@ -11,11 +7,15 @@
       "age": "Junior",
       "gender": "Fêmea",
       "locality": "Bragança, Mirandela",
+      "favorite_count": 0,
+      "short_date": "acerca de 1 ano",
+      "thumb": "https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
       "created_at": "2019-03-27T11:16:42.082Z",
       "announcement_type": "adoption",
       "announcement_type_translated": "Para adoção",
       "map_latitude": 41.374074,
       "map_longitude": -7.142708999999968,
+      "url": "/pt/anuncios/femea-s-r-d-porte-medio-1553685402",
       "images": [
         {
           "width": 400,
@@ -24,6 +24,7 @@
           "thumb": "https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg"
         }
       ],
+      "from_petcare": true,
       "account_name": "Centro de Recolha Oficial da Terra Quente Transmontana"
     },
     {
@@ -33,11 +34,15 @@
       "age": "Adulto",
       "gender": "Macho",
       "locality": "Porto, Porto",
+      "favorite_count": 0,
+      "short_date": "mais de 2 anos",
+      "thumb": "https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
       "created_at": "2017-11-29T00:31:20.209Z",
       "announcement_type": "adoption",
       "announcement_type_translated": "Para adoção",
       "map_latitude": 41.14377160000001,
       "map_longitude": -8.607642499999997,
+      "url": "/pt/anuncios/adocao-responsavel-1511915480",
       "images": [
         {
           "width": 400,
@@ -46,6 +51,7 @@
           "thumb": "https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg"
         }
       ],
+      "from_petcare": false,
       "account_name": null
     },
     {
@@ -55,9 +61,15 @@
       "age": "Bebé",
       "gender": "Macho",
       "locality": "Bragança, Mirandela",
+      "favorite_count": 0,
+      "short_date": "acerca de 1 ano",
+      "thumb": "https://myfuture.pet/attachments/daffa24e4b28fd038a2879287e950f8f51a5c2b1/store/fit/1210/400/9ba2f93e497c87c30c2a27487112898c95a326e11fefdc0210cc607546b7/54353492_2336571156375473_3090789741877002240_o.jpg",
+      "created_at": "2019-03-27T10:50:33.973Z",
+      "announcement_type": "adoption",
       "announcement_type_translated": "Para adoção",
       "map_latitude": 41.374074,
       "map_longitude": -7.142708999999968,
+      "url": "/pt/anuncios/femea-s-r-d-porte-medio-1553683833",
       "images": [
         {
           "width": 400,
@@ -66,6 +78,7 @@
           "thumb": "https://myfuture.pet/attachments/daffa24e4b28fd038a2879287e950f8f51a5c2b1/store/fit/1210/400/9ba2f93e497c87c30c2a27487112898c95a326e11fefdc0210cc607546b7/54353492_2336571156375473_3090789741877002240_o.jpg"
         }
       ],
+      "from_petcare": true,
       "account_name": "Centro de Recolha Oficial da Terra Quente Transmontana"
     },
     {
@@ -75,11 +88,15 @@
       "age": "Adulto",
       "gender": "Fêmea",
       "locality": "Aveiro, Oliveira de Azeméis",
+      "favorite_count": 0,
+      "short_date": "mais de 1 ano",
+      "thumb": "https://myfuture.pet/attachments/f90e76af652ffbcb596d12012c5052f09b16c5b7/store/fit/1210/400/94fb29ea3d73cb5342f6fbb3cc286991a92a4948a0880bf6c85ef44287e7/20190110_010727.jpg",
       "created_at": "2019-01-10T13:33:28.534Z",
       "announcement_type": "adoption",
       "announcement_type_translated": "Para adoção",
       "map_latitude": 40.8594847,
       "map_longitude": -8.427048499999955,
+      "url": "/pt/anuncios/sun-animal-n-112-2017-para-adocao-responsavel-1547127208",
       "images": [
         {
           "width": 400,
@@ -88,6 +105,7 @@
           "thumb": "https://myfuture.pet/attachments/f90e76af652ffbcb596d12012c5052f09b16c5b7/store/fit/1210/400/94fb29ea3d73cb5342f6fbb3cc286991a92a4948a0880bf6c85ef44287e7/20190110_010727.jpg"
         }
       ],
+      "from_petcare": true,
       "account_name": "Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
     },
     {
@@ -97,11 +115,15 @@
       "age": "Adulto",
       "gender": "Fêmea",
       "locality": "Braga, Guimarães",
+      "favorite_count": 0,
+      "short_date": "9 meses",
+      "thumb": "https://myfuture.pet/attachments/7708c41f394aea2846e8c6836166795673d1b75c/store/fit/1210/400/02687f1fc0f985a90a799f9ba6f3907cc3a2ba0fa4ea974253a39b9bb12b/7.jpg",
       "created_at": "2019-07-16T21:05:48.065Z",
       "announcement_type": "adoption",
       "announcement_type_translated": "Para adoção",
       "map_latitude": 41.461008,
       "map_longitude": -8.261278199999992,
+      "url": "/pt/anuncios/120-1563311148",
       "images": [
         {
           "width": 400,
@@ -110,9 +132,8 @@
           "thumb": "https://myfuture.pet/attachments/7708c41f394aea2846e8c6836166795673d1b75c/store/fit/1210/400/02687f1fc0f985a90a799f9ba6f3907cc3a2ba0fa4ea974253a39b9bb12b/7.jpg"
         }
       ],
+      "from_petcare": true,
       "account_name": "Municipio de Guimarães"
     }
   ]
-
-
 }
