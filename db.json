@@ -144,7 +144,7 @@
          "locality":"Braga, Guimarães",
          "favorite_count":0,
          "short_date":"9 meses",
-         "thumb":"http://localhost:3000/attachments/8b6f4b4315b362c942b0cb6a88abb8f5f8884097/store/fit/350/250/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg",
+         "thumb":"https://myfuture.pet/attachments/36e58e167c3154dc55b2dbcc236c674294da9d27/store/fit/1210/400/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg",
          "created_at":"2019-07-16T20:50:55.292Z",
          "announcement_type":"adoption",
          "announcement_type_translated":"Para adoção",
@@ -155,8 +155,8 @@
             {
                "width":400,
                "height":533,
-               "url":"http://localhost:3000/attachments/c0d79987e6499167480c957badd98816009af862/store/limit/400/533/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg",
-               "thumb":"http://localhost:3000/attachments/10855641a953a88f3c2c7093c32972682152d146/store/blur/400/533/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg"
+               "url":"https://myfuture.pet/attachments/36e58e167c3154dc55b2dbcc236c674294da9d27/store/fit/1210/400/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg",
+               "thumb":"https://myfuture.pet/attachments/36e58e167c3154dc55b2dbcc236c674294da9d27/store/fit/1210/400/1ec0e15130172311228710f65b64e9764ff356d2496c7ed7c90f141da97f/138.jpg"
             }
          ],
          "from_petcare":true,
