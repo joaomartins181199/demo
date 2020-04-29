@@ -161,6 +161,33 @@
          ],
          "from_petcare":true,
          "account_name":"Municipio de Guimarães"
+      },
+    {
+         "id":"392d9d17-946b-4104-bc9a-22d50bf6ffff",
+         "name":"085",
+         "description":"",
+         "age":"Adulto",
+         "gender":"Fêmea",
+         "locality":"Braga, Guimarães",
+         "favorite_count":0,
+         "short_date":"9 meses",
+         "thumb":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg",
+         "created_at":"2019-07-16T20:50:55.292Z",
+         "announcement_type":"adoption",
+         "announcement_type_translated":"Para adoção",
+         "map_latitude":41.461008,
+         "map_longitude":-8.261278199999992,
+         "url":"/pt/anuncios/138-1563310255",
+         "images":[
+            {
+               "width":400,
+               "height":533,
+               "url":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg",
+               "thumb":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg"
+            }
+         ],
+         "from_petcare":true,
+         "account_name":"Municipio de Guimarães"
       }
   ]
 }
