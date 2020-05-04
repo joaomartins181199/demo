@@ -1,166 +1,152 @@
-{
-  "announcements": [
-    {
-      "id": "22e4b1e9-e6a3-4095-ad48-6145e9f25084",
-      "name": "Fêmea S.R.D. Porte médio. ",
-      "description": "Muito fofinha e brincalhona!",
-      "age": "Junior",
-      "gender": "Fêmea",
-      "locality": "Bragança, Mirandela",
-      "favorite_count": 0,
-      "short_date": "acerca de 1 ano",
-      "thumb": "https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
-      "created_at": "2019-03-27T11:16:42.082Z",
-      "announcement_type": "adoption",
-      "announcement_type_translated": "Para adoção",
-      "map_latitude": 41.374074,
-      "map_longitude": -7.142708999999968,
-      "url": "/pt/anuncios/femea-s-r-d-porte-medio-1553685402",
-      "images": [
-        {
-          "width": 400,
-          "height": 400,
-          "url": "https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
-          "thumb": "https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg"
-        }
-      ],
-      "from_petcare": true,
-      "account_name": "Centro de Recolha Oficial da Terra Quente Transmontana"
-    },
-    {
-      "id": "5dcdc07f-1832-411e-b0da-4c66f1622263",
-      "name": "ADOÇÃO RESPONSÁVEL ",
-      "description": "Os donos deste cão estão desesperados para encontrar  um novo dono para ele,vivem num apartamento e estão a ter problemas com os vizinhos.\r\nÉ um cão que precisa de espaço exterior porque é muito energético, é dosil e saudável. \r\nOs donos encarregam se de acompanhá lo de perto e oferecem ração. \r\nEle chama se \"F\" tem 3anos e a raça é pitbull com pastor alemão. Número para o qual podem contatar é 912779729 ( Soraia Pinto) mensagem. ",
-      "age": "Adulto",
-      "gender": "Macho",
-      "locality": "Porto, Porto",
-      "favorite_count": 0,
-      "short_date": "mais de 2 anos",
-      "thumb": "https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
-      "created_at": "2017-11-29T00:31:20.209Z",
-      "announcement_type": "adoption",
-      "announcement_type_translated": "Para adoção",
-      "map_latitude": 41.14377160000001,
-      "map_longitude": -8.607642499999997,
-      "url": "/pt/anuncios/adocao-responsavel-1511915480",
-      "images": [
-        {
-          "width": 400,
-          "height": 328,
-          "url": "https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
-          "thumb": "https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg"
-        }
-      ],
-      "from_petcare": false,
-      "account_name": null
-    },
-    {
-      "id": "d448c0f7-426b-4b13-a3f9-dfc5b92d5ed5",
-      "name": "Fêmea S.R.D. Porte médio. ",
-      "description": "Muito meiga e brincalhona! ",
-      "age": "Bebé",
-      "gender": "Macho",
-      "locality": "Bragança, Mirandela",
-      "favorite_count": 0,
-      "short_date": "acerca de 1 ano",
-      "thumb": "https://myfuture.pet/attachments/daffa24e4b28fd038a2879287e950f8f51a5c2b1/store/fit/1210/400/9ba2f93e497c87c30c2a27487112898c95a326e11fefdc0210cc607546b7/54353492_2336571156375473_3090789741877002240_o.jpg",
-      "created_at": "2019-03-27T10:50:33.973Z",
-      "announcement_type": "adoption",
-      "announcement_type_translated": "Para adoção",
-      "map_latitude": 41.374074,
-      "map_longitude": -7.142708999999968,
-      "url": "/pt/anuncios/femea-s-r-d-porte-medio-1553683833",
-      "images": [
-        {
-          "width": 400,
-          "height": 400,
-          "url": "https://myfuture.pet/attachments/daffa24e4b28fd038a2879287e950f8f51a5c2b1/store/fit/1210/400/9ba2f93e497c87c30c2a27487112898c95a326e11fefdc0210cc607546b7/54353492_2336571156375473_3090789741877002240_o.jpg",
-          "thumb": "https://myfuture.pet/attachments/daffa24e4b28fd038a2879287e950f8f51a5c2b1/store/fit/1210/400/9ba2f93e497c87c30c2a27487112898c95a326e11fefdc0210cc607546b7/54353492_2336571156375473_3090789741877002240_o.jpg"
-        }
-      ],
-      "from_petcare": true,
-      "account_name": "Centro de Recolha Oficial da Terra Quente Transmontana"
-    },
-    {
-      "id": "0c980bfa-4551-4911-97ef-89804ada40d8",
-      "name": "Sun Animal n° 112/2017 para adoção responsável ",
-      "description": "Fêmea, porte médio, muito meiga. Vacinada e esterilizada!",
-      "age": "Adulto",
-      "gender": "Fêmea",
-      "locality": "Aveiro, Oliveira de Azeméis",
-      "favorite_count": 0,
-      "short_date": "mais de 1 ano",
-      "thumb": "https://myfuture.pet/attachments/f90e76af652ffbcb596d12012c5052f09b16c5b7/store/fit/1210/400/94fb29ea3d73cb5342f6fbb3cc286991a92a4948a0880bf6c85ef44287e7/20190110_010727.jpg",
-      "created_at": "2019-01-10T13:33:28.534Z",
-      "announcement_type": "adoption",
-      "announcement_type_translated": "Para adoção",
-      "map_latitude": 40.8594847,
-      "map_longitude": -8.427048499999955,
-      "url": "/pt/anuncios/sun-animal-n-112-2017-para-adocao-responsavel-1547127208",
-      "images": [
-        {
-          "width": 400,
-          "height": 400,
-          "url": "https://myfuture.pet/attachments/f90e76af652ffbcb596d12012c5052f09b16c5b7/store/fit/1210/400/94fb29ea3d73cb5342f6fbb3cc286991a92a4948a0880bf6c85ef44287e7/20190110_010727.jpg",
-          "thumb": "https://myfuture.pet/attachments/f90e76af652ffbcb596d12012c5052f09b16c5b7/store/fit/1210/400/94fb29ea3d73cb5342f6fbb3cc286991a92a4948a0880bf6c85ef44287e7/20190110_010727.jpg"
-        }
-      ],
-      "from_petcare": true,
-      "account_name": "Canil intermunicipal da Associação de Municípios de terras de Santa Maria"
-    },
-    {
-      "id": "eb3b3055-5f82-4d5a-869d-4bf031030cfb",
-      "name": "120",
-      "description": "",
-      "age": "Adulto",
-      "gender": "Fêmea",
-      "locality": "Braga, Guimarães",
-      "favorite_count": 0,
-      "short_date": "9 meses",
-      "thumb": "https://myfuture.pet/attachments/7708c41f394aea2846e8c6836166795673d1b75c/store/fit/1210/400/02687f1fc0f985a90a799f9ba6f3907cc3a2ba0fa4ea974253a39b9bb12b/7.jpg",
-      "created_at": "2019-07-16T21:05:48.065Z",
-      "announcement_type": "found",
-      "announcement_type_translated": "Encontrado",
-      "map_latitude": 41.461008,
-      "map_longitude": -8.261278199999992,
-      "url": "/pt/anuncios/120-1563311148",
-      "images": [
-        {
-          "width": 400,
-          "height": 533,
-          "url": "https://myfuture.pet/attachments/7708c41f394aea2846e8c6836166795673d1b75c/store/fit/1210/400/02687f1fc0f985a90a799f9ba6f3907cc3a2ba0fa4ea974253a39b9bb12b/7.jpg",
-          "thumb": "https://myfuture.pet/attachments/7708c41f394aea2846e8c6836166795673d1b75c/store/fit/1210/400/02687f1fc0f985a90a799f9ba6f3907cc3a2ba0fa4ea974253a39b9bb12b/7.jpg"
-        }
-      ],
-      "from_petcare": true,
-      "account_name": "Municipio de Guimarães"
-    },
-    {
-         "id":"392d9d17-946b-4104-bc9a-22d50bf6ffff",
-         "name":"085",
-         "description":"",
-         "age":"Adulto",
-         "gender":"Fêmea",
-         "locality":"Braga, Guimarães",
-         "favorite_count":0,
-         "short_date":"9 meses",
-         "thumb":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg",
-         "created_at":"2019-07-16T20:50:55.292Z",
-         "announcement_type":"losted",
-         "announcement_type_translated":"Perdido",
-         "map_latitude":41.461008,
-         "map_longitude":-8.261278199999992,
-         "url":"/pt/anuncios/138-1563310255",
-         "images":[
-            {
-               "width":400,
-               "height":533,
-               "url":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg",
-               "thumb":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg"
-            }
-         ],
-         "from_petcare":true,
-         "account_name":"Municipio de Guimarães"
-      }
-  ]
-}
+[
+   {
+      "id":"56e3a87a-5447-4445-8958-899e927a6543",
+      "name":"Fêmea S.R.D. Porte médio. ",
+      "description":"Muito meiga e brincalhona! ",
+      "age":"adult",
+      "gender":"female",
+      "locality":"Bragança",
+      "sub_locality":"Mirandela",
+      "pet_type":"dog",
+      "map_latitude":"41.374074",
+      "map_longitude":"-7.142708999999968",
+      "owner":"c3f42f74-aa9a-472b-af93-88e0855f56ca",
+      "created_at":"2019-03-14T16:33:50.157Z",
+      "announcement_type":"adoption",
+      "colors":"#663300,#ffffff",
+      "microchip":"0",
+      "images":[
+         {
+            "width":400,
+            "height":400,
+            "url":"https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg",
+            "thumb":"https://myfuture.pet/attachments/e30de1cdc1f7083059c7144b46dde9c77dcfcfe1/store/fit/1210/400/db70579a824bb7e2c9df3a93f4b62c98ca6b19b76949531c1112b7eb7b1c/51561955_2285417661490823_5211111999517229056_o.jpg"
+         }
+      ]
+   },
+   {
+      "id":"53e2ec5d-83c9-4f0d-b300-c7d7e62912f7",
+      "name":"Macho (Porte Grande) ",
+      "description":"Macho de grande porte. Um potencial candidato para quem gosta de cães grandes. Vacinado. Desparasitado. Castrado. nº710/2017",
+      "age":"adult",
+      "gender":"male",
+      "locality":"Aveiro",
+      "sub_locality":"Oliveira de Azeméis",
+      "pet_type":"dog",
+      "map_latitude":"40.8594847",
+      "map_longitude":"-8.427048499999955",
+      "owner":"abec55bd-49af-4940-801f-2a831f1574b3",
+      "created_at":"2018-01-19T16:10:56.850Z",
+      "announcement_type":"adoption",
+      "colors":"#000000,#ffffff",
+      "microchip":"",
+      "images":[
+         {
+            "width":400,
+            "height":309,
+            "url":"https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg",
+            "thumb":"https://myfuture.pet/attachments/2cdfdde08e4555ca9fcb36fc6ce064654fd3c2bf/store/fit/1210/400/d7d75a337c57b41c94286e8b46b37777dbd27afdb0c09d10e6261460304b/26730755_1553358861367995_634155450356821984_n.jpg"
+         }
+      ]
+   },
+   {
+      "id":"963ca94a-46bb-4960-b7dc-2eaf4605b6fb",
+      "name":"Adoção: Giló",
+      "description":"CAMPANHA: Adote uma nova Vida! Atualmente, estão ao abrigo da Junta da Freguesia de Ermesinde, dois cães (um macho e uma fêmea) com idade aproximada de 1 ano, devido à indisponibilidade de espaço no Centro Veterinário Municipal de Valongo. Caso esteja interessado, contacte-nos! Nota: Todos os animais adoptados no âmbito desta campanha encontram-se isentos do pagamento de taxas anuais de licença de canídeos na Freguesia de Ermesinde, bem como a gratuitidade na colocação de Microchip e castração no caso das fêmeas.",
+      "age":"junior",
+      "gender":"male",
+      "locality":"Porto",
+      "sub_locality":"Valongo",
+      "pet_type":"dog",
+      "map_latitude":"41.2090826",
+      "map_longitude":"-8.544635999999969",
+      "owner":"b924c782-101a-4c72-96a6-d336a054e8b6",
+      "created_at":"2018-03-28T11:47:32.524Z",
+      "announcement_type":"adoption",
+      "colors":"#ffffff,#fae4ab",
+      "microchip":"",
+      "images":[
+         {
+            "width":400,
+            "height":600,
+            "url":"https://myfuture.pet/attachments/daffa24e4b28fd038a2879287e950f8f51a5c2b1/store/fit/1210/400/9ba2f93e497c87c30c2a27487112898c95a326e11fefdc0210cc607546b7/54353492_2336571156375473_3090789741877002240_o.jpg",
+            "thumb":"https://myfuture.pet/attachments/daffa24e4b28fd038a2879287e950f8f51a5c2b1/store/fit/1210/400/9ba2f93e497c87c30c2a27487112898c95a326e11fefdc0210cc607546b7/54353492_2336571156375473_3090789741877002240_o.jpg"
+         }
+      ]
+   },
+   {
+      "id":"59c88731-5f2e-4d52-b893-4e06d47874da",
+      "name":"Thunder",
+      "description":"",
+      "age":"adult",
+      "gender":"male",
+      "locality":"Braga",
+      "sub_locality":"Guimarães",
+      "pet_type":"dog",
+      "map_latitude":"41.461008",
+      "map_longitude":"-8.261278199999992",
+      "owner":"785bd096-66b5-4b71-a319-efc8e6f6b8f0",
+      "created_at":"2020-01-30T10:43:44.794Z",
+      "announcement_type":"adoption",
+      "colors":"#663300,#fae4ab",
+      "microchip":"",
+      "images":[
+         {
+            "width":400,
+            "height":266,
+            "url":"https://myfuture.pet/attachments/f90e76af652ffbcb596d12012c5052f09b16c5b7/store/fit/1210/400/94fb29ea3d73cb5342f6fbb3cc286991a92a4948a0880bf6c85ef44287e7/20190110_010727.jpg",
+            "thumb":"https://myfuture.pet/attachments/f90e76af652ffbcb596d12012c5052f09b16c5b7/store/fit/1210/400/94fb29ea3d73cb5342f6fbb3cc286991a92a4948a0880bf6c85ef44287e7/20190110_010727.jpg"
+         }
+      ]
+   },
+   {
+      "id":"94393582-3f68-4967-96f8-185936d76e2f",
+      "name":"JACKIE",
+      "description":"Fêmea adulta, meiga, esterilizada",
+      "age":"adult",
+      "gender":"female",
+      "locality":"Açores",
+      "sub_locality":"Lagoa",
+      "pet_type":"dog",
+      "map_latitude":"37.7547751",
+      "map_longitude":"-25.57603389999997",
+      "owner":"889b761d-a68a-41b2-8a8f-ff696e76b8ed",
+      "created_at":"2019-10-18T15:40:14.467Z",
+      "announcement_type":"adoption",
+      "colors":"#000000",
+      "microchip":"620098500010319",
+      "images":[
+         {
+            "width":400,
+            "height":224,
+            "url":"https://myfuture.pet/attachments/7708c41f394aea2846e8c6836166795673d1b75c/store/fit/1210/400/02687f1fc0f985a90a799f9ba6f3907cc3a2ba0fa4ea974253a39b9bb12b/7.jpg",
+            "thumb":"https://myfuture.pet/attachments/7708c41f394aea2846e8c6836166795673d1b75c/store/fit/1210/400/02687f1fc0f985a90a799f9ba6f3907cc3a2ba0fa4ea974253a39b9bb12b/7.jpg"
+         }
+      ]
+   },
+   {
+      "id":"4ddbbfdd-1c31-472b-a76c-af5d5452337f",
+      "name":"Bugalha",
+      "description":"",
+      "age":"adult",
+      "gender":"female",
+      "locality":"Beja",
+      "sub_locality":"Odemira",
+      "pet_type":"dog",
+      "map_latitude":"37.5965196",
+      "map_longitude":"-8.64185729999997",
+      "owner":"520bb2e4-e68e-4f40-a0c7-1ee4b82c3ee6",
+      "created_at":"2019-11-14T15:13:16.482Z",
+      "announcement_type":"adoption",
+      "colors":"#ffffff,#dfbd15",
+      "microchip":"900182001946392",
+      "images":[
+         {
+            "width":400,
+            "height":352,
+            "url":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg",
+            "thumb":"https://myfuture.pet/attachments/10ee3383e9684a54ddc655d33df4956e5f5d4f85/store/fit/1210/400/bf75b06de4d716a4ed67a31fb530bf9f22414357dbda8d1611addf44bff9/085.jpg"
+         }
+      ]
+   }
+]
